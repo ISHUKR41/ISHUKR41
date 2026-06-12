@@ -1,0 +1,153 @@
+<svg width="900" height="430" viewBox="0 0 900 430" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#0a1410"/>
+    </linearGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="c1"><rect x="10"  y="10"  width="422" height="118" rx="8"/></clipPath>
+    <clipPath id="c2"><rect x="468" y="10"  width="422" height="118" rx="8"/></clipPath>
+    <clipPath id="c3"><rect x="10"  y="148" width="422" height="118" rx="8"/></clipPath>
+    <clipPath id="c4"><rect x="468" y="148" width="422" height="118" rx="8"/></clipPath>
+    <clipPath id="c5"><rect x="10"  y="286" width="422" height="118" rx="8"/></clipPath>
+    <clipPath id="c6"><rect x="468" y="286" width="422" height="118" rx="8"/></clipPath>
+  </defs>
+
+  <!-- BG -->
+  <rect width="900" height="430" rx="12" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="899" height="429" rx="11.5" fill="none" stroke="#00FF88" stroke-width="1" stroke-opacity="0.3"/>
+
+  <!-- Title -->
+  <text x="450" y="0" fill="#FB923C" font-family="'Courier New',monospace" font-size="0">placeholder</text>
+
+  <!-- ═══ CARD 1 — ishu.fun ═══ x=10 y=10 GREEN #00FF88 95% -->
+  <rect x="10" y="10" width="422" height="118" rx="8" fill="#0d1117" stroke="#00FF88" stroke-width="1" stroke-opacity="0.25"/>
+  <rect x="10" y="10" width="422" height="118" rx="8" fill="none" stroke="#00FF88" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.25;0.8;0.25" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <!-- left accent bar -->
+  <rect x="10" y="10" width="4" height="118" rx="2" fill="#00FF88"/>
+  <!-- icon + title -->
+  <text x="26" y="34" fill="#00FF88" font-family="monospace" font-size="16" font-weight="900" filter="url(#g)">🌐 ishu.fun</text>
+  <!-- status -->
+  <circle cx="388" cy="27" r="5" fill="#00FF88"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+  <text x="397" y="31" fill="#00FF88" font-family="monospace" font-size="10" font-weight="700">LIVE ✅</text>
+  <!-- description -->
+  <text x="26" y="52" fill="#8b949e" font-family="monospace" font-size="11">Portfolio · React + TypeScript + Vercel · 99.9% uptime</text>
+  <!-- stack badges -->
+  <rect x="26"  y="62" width="60"  height="16" rx="3" fill="#00FF8820"/><text x="31"  y="74" fill="#00FF88" font-family="monospace" font-size="9">TypeScript</text>
+  <rect x="92"  y="62" width="44"  height="16" rx="3" fill="#00E5FF20"/><text x="97"  y="74" fill="#00E5FF" font-family="monospace" font-size="9">React</text>
+  <rect x="142" y="62" width="42"  height="16" rx="3" fill="#C084FC20"/><text x="147" y="74" fill="#C084FC" font-family="monospace" font-size="9">Vercel</text>
+  <rect x="190" y="62" width="62"  height="16" rx="3" fill="#FB923C20"/><text x="195" y="74" fill="#FB923C" font-family="monospace" font-size="9">PostgreSQL</text>
+  <!-- progress track + bar -->
+  <rect x="26" y="88" width="390" height="7" rx="3" fill="#161b22"/>
+  <rect x="26" y="88" width="0"   height="7" rx="3" fill="#00FF88" filter="url(#g)">
+    <animate attributeName="width" from="0" to="370" dur="1.8s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="26" y="110" fill="#8b949e" font-family="monospace" font-size="9">PROGRESS</text>
+  <text x="400" y="110" fill="#00FF88" font-family="monospace" font-size="10" font-weight="700" text-anchor="end">95%</text>
+
+  <!-- ═══ CARD 2 — Chess Engine ═══ x=468 y=10 CYAN #00E5FF 90% -->
+  <rect x="468" y="10" width="422" height="118" rx="8" fill="#0d1117" stroke="#00E5FF" stroke-width="1" stroke-opacity="0.25"/>
+  <rect x="468" y="10" width="422" height="118" rx="8" fill="none" stroke="#00E5FF" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.25;0.8;0.25" dur="3.5s" begin="0.4s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="468" y="10" width="4" height="118" rx="2" fill="#00E5FF"/>
+  <text x="484" y="34" fill="#00E5FF" font-family="monospace" font-size="16" font-weight="900" filter="url(#g)">♟️ Chess Engine</text>
+  <circle cx="828" cy="27" r="5" fill="#7EE787"><animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <text x="837" y="31" fill="#7EE787" font-family="monospace" font-size="10" font-weight="700">~DONE</text>
+  <text x="484" y="52" fill="#8b949e" font-family="monospace" font-size="11">Chess game in pure TypeScript · Zero dependencies · 0 libs</text>
+  <rect x="484" y="62" width="60"  height="16" rx="3" fill="#00E5FF20"/><text x="489" y="74" fill="#00E5FF" font-family="monospace" font-size="9">TypeScript</text>
+  <rect x="550" y="62" width="52"  height="16" rx="3" fill="#00FF8820"/><text x="555" y="74" fill="#00FF88" font-family="monospace" font-size="9">Zero Deps</text>
+  <rect x="608" y="62" width="36"  height="16" rx="3" fill="#C084FC20"/><text x="613" y="74" fill="#C084FC" font-family="monospace" font-size="9">Chess</text>
+  <rect x="484" y="88" width="390" height="7" rx="3" fill="#161b22"/>
+  <rect x="484" y="88" width="0"   height="7" rx="3" fill="#00E5FF" filter="url(#g)">
+    <animate attributeName="width" from="0" to="351" dur="1.8s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="484" y="110" fill="#8b949e" font-family="monospace" font-size="9">PROGRESS</text>
+  <text x="858" y="110" fill="#00E5FF" font-family="monospace" font-size="10" font-weight="700" text-anchor="end">90%</text>
+
+  <!-- ═══ CARD 3 — EduQuest ═══ x=10 y=148 PURPLE #C084FC 88% -->
+  <rect x="10" y="148" width="422" height="118" rx="8" fill="#0d1117" stroke="#C084FC" stroke-width="1" stroke-opacity="0.25"/>
+  <rect x="10" y="148" width="422" height="118" rx="8" fill="none" stroke="#C084FC" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.25;0.8;0.25" dur="2.8s" begin="0.8s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="10" y="148" width="4" height="118" rx="2" fill="#C084FC"/>
+  <text x="26" y="172" fill="#C084FC" font-family="monospace" font-size="16" font-weight="900" filter="url(#g)">🎓 EduQuest</text>
+  <circle cx="388" cy="165" r="5" fill="#7EE787"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" begin="0.2s" repeatCount="indefinite"/></circle>
+  <text x="397" y="169" fill="#7EE787" font-family="monospace" font-size="10" font-weight="700">~DONE</text>
+  <text x="26" y="190" fill="#8b949e" font-family="monospace" font-size="11">India's next EdTech platform · React + TS + PostgreSQL</text>
+  <rect x="26"  y="200" width="60"  height="16" rx="3" fill="#C084FC20"/><text x="31"  y="212" fill="#C084FC" font-family="monospace" font-size="9">TypeScript</text>
+  <rect x="92"  y="200" width="44"  height="16" rx="3" fill="#00E5FF20"/><text x="97"  y="212" fill="#00E5FF" font-family="monospace" font-size="9">React</text>
+  <rect x="142" y="200" width="62"  height="16" rx="3" fill="#FB923C20"/><text x="147" y="212" fill="#FB923C" font-family="monospace" font-size="9">PostgreSQL</text>
+  <rect x="210" y="200" width="52"  height="16" rx="3" fill="#00FF8820"/><text x="215" y="212" fill="#00FF88" font-family="monospace" font-size="9">EdTech</text>
+  <rect x="26" y="226" width="390" height="7" rx="3" fill="#161b22"/>
+  <rect x="26" y="226" width="0"   height="7" rx="3" fill="#C084FC">
+    <animate attributeName="width" from="0" to="343" dur="1.8s" begin="0.7s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="26" y="248" fill="#8b949e" font-family="monospace" font-size="9">PROGRESS</text>
+  <text x="400" y="248" fill="#C084FC" font-family="monospace" font-size="10" font-weight="700" text-anchor="end">88%</text>
+
+  <!-- ═══ CARD 4 — BGMIFF ═══ x=468 y=148 ORANGE #FB923C 80% -->
+  <rect x="468" y="148" width="422" height="118" rx="8" fill="#0d1117" stroke="#FB923C" stroke-width="1" stroke-opacity="0.25"/>
+  <rect x="468" y="148" width="422" height="118" rx="8" fill="none" stroke="#FB923C" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.25;0.8;0.25" dur="3.2s" begin="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="468" y="148" width="4" height="118" rx="2" fill="#FB923C"/>
+  <text x="484" y="172" fill="#FB923C" font-family="monospace" font-size="16" font-weight="900" filter="url(#g)">🎮 BGMIFF</text>
+  <circle cx="828" cy="165" r="5" fill="#FB923C"><animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="0.6s" repeatCount="indefinite"/></circle>
+  <text x="837" y="169" fill="#FB923C" font-family="monospace" font-size="10" font-weight="700">BUILDING</text>
+  <text x="484" y="190" fill="#8b949e" font-family="monospace" font-size="11">BGMI &amp; Free Fire esports platform · India gaming community</text>
+  <rect x="484" y="200" width="60"  height="16" rx="3" fill="#FB923C20"/><text x="489" y="212" fill="#FB923C" font-family="monospace" font-size="9">TypeScript</text>
+  <rect x="550" y="200" width="60"  height="16" rx="3" fill="#C084FC20"/><text x="555" y="212" fill="#C084FC" font-family="monospace" font-size="9">Esports</text>
+  <rect x="616" y="200" width="44"  height="16" rx="3" fill="#00E5FF20"/><text x="621" y="212" fill="#00E5FF" font-family="monospace" font-size="9">India</text>
+  <rect x="484" y="226" width="390" height="7" rx="3" fill="#161b22"/>
+  <rect x="484" y="226" width="0"   height="7" rx="3" fill="#FB923C">
+    <animate attributeName="width" from="0" to="312" dur="1.8s" begin="0.9s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="484" y="248" fill="#8b949e" font-family="monospace" font-size="9">PROGRESS</text>
+  <text x="858" y="248" fill="#FB923C" font-family="monospace" font-size="10" font-weight="700" text-anchor="end">80%</text>
+
+  <!-- ═══ CARD 5 — TypeBlitz ═══ x=10 y=286 RED #FF6B6B 65% -->
+  <rect x="10" y="286" width="422" height="118" rx="8" fill="#0d1117" stroke="#FF6B6B" stroke-width="1" stroke-opacity="0.25"/>
+  <rect x="10" y="286" width="422" height="118" rx="8" fill="none" stroke="#FF6B6B" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.25;0.8;0.25" dur="4s" begin="1.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="10" y="286" width="4" height="118" rx="2" fill="#FF6B6B"/>
+  <text x="26" y="310" fill="#FF6B6B" font-family="monospace" font-size="16" font-weight="900" filter="url(#g)">⌨️ TypeBlitz</text>
+  <circle cx="388" cy="303" r="5" fill="#FF6B6B"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" begin="0.8s" repeatCount="indefinite"/></circle>
+  <text x="397" y="307" fill="#FF6B6B" font-family="monospace" font-size="10" font-weight="700">BUILDING</text>
+  <text x="26" y="328" fill="#8b949e" font-family="monospace" font-size="11">Competitive typing game · WPM tracking · Multiplayer</text>
+  <rect x="26"  y="338" width="60"  height="16" rx="3" fill="#FF6B6B20"/><text x="31"  y="350" fill="#FF6B6B" font-family="monospace" font-size="9">TypeScript</text>
+  <rect x="92"  y="338" width="52"  height="16" rx="3" fill="#00E5FF20"/><text x="97"  y="350" fill="#00E5FF" font-family="monospace" font-size="9">Typing</text>
+  <rect x="150" y="338" width="68"  height="16" rx="3" fill="#C084FC20"/><text x="155" y="350" fill="#C084FC" font-family="monospace" font-size="9">Multiplayer</text>
+  <rect x="26" y="364" width="390" height="7" rx="3" fill="#161b22"/>
+  <rect x="26" y="364" width="0"   height="7" rx="3" fill="#FF6B6B">
+    <animate attributeName="width" from="0" to="253" dur="1.8s" begin="1.1s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="26" y="386" fill="#8b949e" font-family="monospace" font-size="9">PROGRESS</text>
+  <text x="400" y="386" fill="#FF6B6B" font-family="monospace" font-size="10" font-weight="700" text-anchor="end">65%</text>
+
+  <!-- ═══ CARD 6 — FinVault ═══ x=468 y=286 TEAL #7EE787 50% -->
+  <rect x="468" y="286" width="422" height="118" rx="8" fill="#0d1117" stroke="#7EE787" stroke-width="1" stroke-opacity="0.25"/>
+  <rect x="468" y="286" width="422" height="118" rx="8" fill="none" stroke="#7EE787" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.25;0.8;0.25" dur="3.8s" begin="1.8s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="468" y="286" width="4" height="118" rx="2" fill="#7EE787"/>
+  <text x="484" y="310" fill="#7EE787" font-family="monospace" font-size="16" font-weight="900" filter="url(#g)">💰 FinVault</text>
+  <circle cx="828" cy="303" r="5" fill="#7EE787"><animate attributeName="opacity" values="1;0.2;1" dur="2.4s" begin="1.0s" repeatCount="indefinite"/></circle>
+  <text x="837" y="307" fill="#7EE787" font-family="monospace" font-size="10" font-weight="700">BUILDING</text>
+  <text x="484" y="328" fill="#8b949e" font-family="monospace" font-size="11">FinTech app · Expense tracking · PostgreSQL + TypeScript</text>
+  <rect x="484" y="338" width="60"  height="16" rx="3" fill="#7EE78720"/><text x="489" y="350" fill="#7EE787" font-family="monospace" font-size="9">TypeScript</text>
+  <rect x="550" y="338" width="62"  height="16" rx="3" fill="#FB923C20"/><text x="555" y="350" fill="#FB923C" font-family="monospace" font-size="9">PostgreSQL</text>
+  <rect x="618" y="338" width="42"  height="16" rx="3" fill="#00E5FF20"/><text x="623" y="350" fill="#00E5FF" font-family="monospace" font-size="9">FinTech</text>
+  <rect x="484" y="364" width="390" height="7" rx="3" fill="#161b22"/>
+  <rect x="484" y="364" width="0"   height="7" rx="3" fill="#7EE787">
+    <animate attributeName="width" from="0" to="195" dur="1.8s" begin="1.3s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="484" y="386" fill="#8b949e" font-family="monospace" font-size="9">PROGRESS</text>
+  <text x="858" y="386" fill="#7EE787" font-family="monospace" font-size="10" font-weight="700" text-anchor="end">50%</text>
+
+  <!-- Bottom legend -->
+  <rect x="10" y="415" width="880" height="1" fill="#00FF88" fill-opacity="0.1"/>
+  <text x="450" y="428" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle" letter-spacing="3">6  FLAGSHIP  PROJECTS  ·  ISHU  KUMAR  ·  ISHUKR41</text>
+</svg>
