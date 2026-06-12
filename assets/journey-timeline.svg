@@ -1,0 +1,91 @@
+<svg width="900" height="198" viewBox="0 0 900 198" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgTL" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#0a1014"/>
+    </linearGradient>
+    <filter id="gTL">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="progressGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF88"/>
+      <stop offset="60%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+
+  <!-- BG -->
+  <rect width="900" height="198" rx="12" fill="url(#bgTL)"/>
+  <rect x="0.5" y="0.5" width="899" height="197" rx="11.5" fill="none" stroke="#00E5FF" stroke-width="1" stroke-opacity="0.35">
+    <animate attributeName="stroke-opacity" values="0.35;0.7;0.35" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Title -->
+  <text x="450" y="30" fill="#00E5FF" font-family="'Courier New',monospace" font-size="13" font-weight="900" text-anchor="middle" letter-spacing="5" filter="url(#gTL)">◈  MY  ENGINEERING  JOURNEY  ◈</text>
+  <rect x="20" y="40" width="860" height="1" fill="#00E5FF" fill-opacity="0.12"/>
+
+  <!-- Track line: from x=80 to x=820, y=100 -->
+  <line x1="80" y1="100" x2="820" y2="100" stroke="#161b22" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Animated progress line (from 2023 to 2026 = ~74% of 740px = 547px) -->
+  <line x1="80" y1="100" x2="80" y2="100" stroke="url(#progressGrad)" stroke-width="4" stroke-linecap="round" filter="url(#gTL)">
+    <animate attributeName="x2" from="80" to="627" dur="2.5s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </line>
+
+  <!-- Milestone positions: 2023=80, 2024=265, 2025=450, 2026=635, 2027=820 -->
+
+  <!-- ── 2023 ── x=80 GREEN ✅ -->
+  <circle cx="80" cy="100" r="10" fill="#00FF88" filter="url(#gTL)"/>
+  <circle cx="80" cy="100" r="6" fill="#0d1117"/>
+  <circle cx="80" cy="100" r="3" fill="#00FF88"/>
+  <text x="80" y="68" fill="#00FF88" font-family="monospace" font-size="11" font-weight="900" text-anchor="middle">2023</text>
+  <text x="80" y="80" fill="#8b949e" font-family="monospace" font-size="9"  text-anchor="middle">AUG</text>
+  <text x="80" y="122" fill="#00FF88" font-family="monospace" font-size="10" font-weight="700" text-anchor="middle">🏛️ IIT Patna</text>
+  <text x="80" y="135" fill="#8b949e" font-family="monospace" font-size="8"  text-anchor="middle">CSE Starts</text>
+
+  <!-- ── 2024 ── x=265 CYAN ✅ -->
+  <circle cx="265" cy="100" r="10" fill="#00E5FF" filter="url(#gTL)"/>
+  <circle cx="265" cy="100" r="6" fill="#0d1117"/>
+  <circle cx="265" cy="100" r="3" fill="#00E5FF"/>
+  <text x="265" y="68" fill="#00E5FF" font-family="monospace" font-size="11" font-weight="900" text-anchor="middle">2024</text>
+  <text x="265" y="80" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">YEAR 2</text>
+  <text x="265" y="122" fill="#00E5FF" font-family="monospace" font-size="10" font-weight="700" text-anchor="middle">🚀 20+ Repos</text>
+  <text x="265" y="135" fill="#8b949e" font-family="monospace" font-size="8" text-anchor="middle">Full Stack dev</text>
+
+  <!-- ── 2025 ── x=450 PURPLE ✅ -->
+  <circle cx="450" cy="100" r="10" fill="#C084FC" filter="url(#gTL)"/>
+  <circle cx="450" cy="100" r="6" fill="#0d1117"/>
+  <circle cx="450" cy="100" r="3" fill="#C084FC"/>
+  <text x="450" y="68" fill="#C084FC" font-family="monospace" font-size="11" font-weight="900" text-anchor="middle">2025</text>
+  <text x="450" y="80" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">YEAR 3</text>
+  <text x="450" y="122" fill="#C084FC" font-family="monospace" font-size="10" font-weight="700" text-anchor="middle">🌐 ishu.fun</text>
+  <text x="450" y="135" fill="#8b949e" font-family="monospace" font-size="8" text-anchor="middle">Portfolio LIVE</text>
+
+  <!-- ── 2026 ── x=635 ORANGE ← CURRENT, PULSING ✅ -->
+  <circle cx="635" cy="100" r="14" fill="#FB923C" fill-opacity="0.2">
+    <animate attributeName="r" values="14;20;14" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.2;0;0.2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="635" cy="100" r="10" fill="#FB923C" filter="url(#gTL)"/>
+  <circle cx="635" cy="100" r="6" fill="#0d1117"/>
+  <circle cx="635" cy="100" r="4" fill="#FB923C">
+    <animate attributeName="opacity" values="1;0.4;1" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="635" y="68" fill="#FB923C" font-family="monospace" font-size="11" font-weight="900" text-anchor="middle">2026</text>
+  <text x="635" y="80" fill="#FB923C" font-family="monospace" font-size="9" text-anchor="middle" font-weight="700">← NOW</text>
+  <text x="635" y="122" fill="#FB923C" font-family="monospace" font-size="10" font-weight="700" text-anchor="middle">⚡ 67+ Repos</text>
+  <text x="635" y="135" fill="#8b949e" font-family="monospace" font-size="8" text-anchor="middle">8 Projects Active</text>
+
+  <!-- ── 2027 ── x=820 GRAY (future) -->
+  <circle cx="820" cy="100" r="10" fill="#161b22" stroke="#8b949e" stroke-width="1.5"/>
+  <text x="820" y="68" fill="#8b949e" font-family="monospace" font-size="11" font-weight="900" text-anchor="middle">2027</text>
+  <text x="820" y="80" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">TARGET</text>
+  <text x="820" y="122" fill="#8b949e" font-family="monospace" font-size="10" font-weight="700" text-anchor="middle">🎓 Graduate</text>
+  <text x="820" y="135" fill="#8b949e" font-family="monospace" font-size="8" text-anchor="middle">IIT Patna B.Tech</text>
+
+  <!-- Bottom line -->
+  <rect x="20" y="158" width="860" height="1" fill="#00E5FF" fill-opacity="0.1"/>
+  <text x="450" y="178" fill="#8b949e" font-family="monospace" font-size="10" text-anchor="middle">
+    <tspan fill="#00FF88">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</tspan><tspan fill="#161b22">░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan>
+  </text>
+  <text x="450" y="190" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle" letter-spacing="3">YEAR  3  OF  4  ·  ON  TRACK  ·  2023  →  2027</text>
+</svg>
