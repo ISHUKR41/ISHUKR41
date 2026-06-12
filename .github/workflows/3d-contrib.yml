@@ -2,12 +2,14 @@ name: 🌐 Generate 3D Contribution Calendar
 
 on:
   schedule:
-    # Runs every day at 6pm UTC — rebuilds 3D graph with today's contributions
     - cron: "0 18 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -15,7 +17,7 @@ jobs:
     name: Generate 3D Contribution Graph
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Generate 3D Contribution Calendar
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
@@ -38,13 +40,13 @@ jobs:
               "type": "NORMAL",
               "angle": 50,
               "topLang": true,
-              "fileName": "profile-night-rainbow"
+              "fileName": "profile-night-green"
             }
 
-      - name: Commit & Push 3D Graph
+      - name: Commit and Push 3D Graph
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --staged --quiet || git commit -m "🌐 Auto-update 3D contribution graph [$(date +'%Y-%m-%d')]"
+          git diff --staged --quiet || git commit -m "🌐 Auto-update 3D contribution graph [skip ci]"
           git push
