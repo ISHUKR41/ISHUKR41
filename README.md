@@ -1,28 +1,28 @@
 <div align="center">
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--         ISHUKR41 · ULTRA PRO ANIMATED GITHUB PROFILE v5.0           -->
-<!--         IIT Patna · TypeScript · Builder · Open Source · India       -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ████████████████████████████████████████████████████████████████████████ -->
+<!--      ISHUKR41 · ULTRA PRO ANIMATED GITHUB PROFILE v6.0 — MAXIMUM       -->
+<!--      IIT Patna CSE · TypeScript · Builder · Open Source · India 🇮🇳    -->
+<!-- ████████████████████████████████████████████████████████████████████████ -->
 
 <!-- ╔════ VENOM HERO BANNER — MAXIMUM DRAMA ════╗ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,18:020d04,36:001a0a,54:003311,72:001a0a,90:020d04,100:000000&height=360&section=header&text=ISHU%20KUMAR&fontSize=96&fontColor=4FFFB0&fontAlignY=42&desc=Full%20Stack%20Dev%20%7C%20Builder%20%7C%20IIT%20Patna%20%7C%20Open%20Source%20%7C%20India%20🇮🇳&descAlignY=64&descSize=20&descColor=8b949e&animation=twinkling&stroke=4FFFB0&strokeWidth=3" />
 
-<!-- 5-COLOR NEON PULSE BAR -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4FFFB0,20:00b4ff,40:d2a8ff,60:ffa657,80:7ee787,100:4FFFB0&height=5&animation=twinkling" />
+<!-- 6-COLOR NEON PULSE BAR -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4FFFB0,16:00b4ff,32:d2a8ff,48:ffa657,64:7ee787,80:ff7b72,100:4FFFB0&height=5&animation=twinkling" />
 
 <br/>
 
-<!-- IIT PATNA LOGO + BADGE ROW -->
-<img src="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/main/assets/iitp-logo.png" width="80" height="80" style="border-radius:50%" alt="IIT Patna" />&nbsp;&nbsp;
+<!-- IIT PATNA LOGO + HERO BADGES -->
+<img src="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/main/assets/iitp-logo.png" width="90" height="90" alt="IIT Patna" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/🏛️+IIT+PATNA-B.Tech+CSE+2023--2027-%234FFFB0?style=for-the-badge&labelColor=000" />&nbsp;
 <img src="https://img.shields.io/badge/Roll-2312res305-%2300b4ff?style=for-the-badge&labelColor=000" />&nbsp;
 <img src="https://img.shields.io/badge/NIRF+Rank-%2323+in+India-%23d2a8ff?style=for-the-badge&labelColor=000" />
 
 <br/><br/>
 
-<!-- HERO TYPING — 14 ROTATING LINES -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=1900&pause=320&color=4FFFB0&center=true&vCenter=true&multiline=false&width=820&lines=🚀+Full+Stack+Developer+%7C+TypeScript+%2B+React+%2B+Next.js;🏛️+B.Tech+CSE+%40+IIT+Patna+—+Class+of+2027;🎓+Building+EduTech+Platforms+for+India+%7C+67%2B+Repos;♟️+Built+Chess+Engine+from+Scratch+in+TypeScript;💰+FinTech+%7C+Campus+Tech+%7C+EduTech+%7C+GameDev;🌐+Founder+%40+ishu.fun+—+Personal+Tools+Hub;🔥+Coding+Every+Single+Day+since+Aug+2023;🎮+Esports+Platform+Builder+%7C+BGMI+%2B+Free+Fire;🤖+OpenCV+%7C+AI+%7C+Machine+Learning+Explorer;⌨️+TypeBlitz+—+Competitive+Typing+Game+Builder;💡+67%2B+GitHub+Repos+and+Counting;🔨+Build.+Ship.+Repeat.+That%27s+the+Motto;🍛+Built+Dhaba+Junction+NIT+—+Campus+Food+App;⚡+TypeScript+87%25+%7C+400%2B+Commits+%7C+Always+Online" alt="Typing SVG" />
+<!-- HERO TYPING — 15 ROTATING LINES — FASTER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=1800&pause=300&color=4FFFB0&center=true&vCenter=true&multiline=false&width=840&lines=🚀+Full+Stack+Developer+%7C+TypeScript+%2B+React+%2B+Next.js;🏛️+B.Tech+CSE+%40+IIT+Patna+—+Class+of+2027;🎓+Building+EduTech+Platforms+for+India+%7C+67%2B+Repos;♟️+Built+Chess+Engine+from+Scratch+in+TypeScript;💰+FinTech+%7C+Campus+Tech+%7C+EduTech+%7C+GameDev;🌐+Founder+%40+ishu.fun+—+Personal+Tools+%26+Brand+Hub;🔥+Coding+Every+Day+since+Aug+2023+—+Never+Stopped;🎮+Esports+Platform+Builder+%7C+BGMI+%2B+Free+Fire;🤖+OpenCV+%7C+Computer+Vision+%7C+ML+Explorer;⌨️+TypeBlitz+—+Real-Time+Competitive+Typing+Game;💡+67%2B+GitHub+Repos+%7C+400%2B+Commits+%7C+Counting;🔨+Build.+Ship.+Repeat.+Never+Stop.+That%27s+the+Motto;🍛+Dhaba+Junction+NIT+—+Campus+Food+Ordering+App;🏟️+GullyEsports+—+Community+Gaming+Platform;⚡+TypeScript+87%25+%7C+IIT+Patna+%7C+Always+Online" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -38,29 +38,29 @@
 <a href="https://ishu.fun"><img src="https://img.shields.io/badge/🌐+ishu.fun-Portfolio-%234FFFB0?style=for-the-badge&labelColor=000" /></a>&nbsp;
 <a href="https://wa.me/917541024846"><img src="https://img.shields.io/badge/💬+WhatsApp-%2B91+75410+24846-%2325D366?style=for-the-badge&labelColor=000" /></a>&nbsp;
 <a href="mailto:ishukryk@gmail.com"><img src="https://img.shields.io/badge/📧+Gmail-ishukryk-%23EA4335?style=for-the-badge&labelColor=000" /></a>&nbsp;
-<a href="mailto:ishu_2312res305@iitp.ac.in"><img src="https://img.shields.io/badge/🏛️+IIT+Mail-ishu__2312res305-%234FFFB0?style=for-the-badge&labelColor=000" /></a>
+<a href="mailto:ishu_2312res305@iitp.ac.in"><img src="https://img.shields.io/badge/🏛️+IIT+Mail-iitp.ac.in-%234FFFB0?style=for-the-badge&labelColor=000" /></a>
 
 <br/><br/>
 
-<!-- ANIMATED LIVE COUNTERS -->
+<!-- LIVE ANIMATED COUNTERS -->
 <img src="https://komarev.com/ghpvc/?username=ISHUKR41&color=4FFFB0&style=for-the-badge&label=👁️+PROFILE+VIEWS" />&nbsp;
 <img src="https://img.shields.io/github/followers/ISHUKR41?style=for-the-badge&color=00b4ff&labelColor=000&label=👥+FOLLOWERS&logo=github" />&nbsp;
 <img src="https://img.shields.io/badge/📦+REPOS-67+-%234FFFB0?style=for-the-badge&labelColor=000" />&nbsp;
-<img src="https://img.shields.io/badge/🔥+STREAK-Ongoing-%23ffa657?style=for-the-badge&labelColor=000" />&nbsp;
+<img src="https://img.shields.io/badge/🔥+COMMITS-400%2B-%23ffa657?style=for-the-badge&labelColor=000" />&nbsp;
 <img src="https://img.shields.io/badge/🏛️+IIT+PATNA-CSE+2027-%23d2a8ff?style=for-the-badge&labelColor=000" />
 
 <br/>
 
-<!-- ANIMATED STATUS ROW -->
+<!-- STATUS ROW -->
 <img src="https://img.shields.io/badge/TypeScript-87%25+Primary-%234FFFB0?style=flat-square&logo=typescript&logoColor=white&labelColor=000" />&nbsp;
-<img src="https://img.shields.io/badge/Status-🚀+Building+%26+Shipping-%2300b4ff?style=flat-square&labelColor=000" />&nbsp;
+<img src="https://img.shields.io/badge/Status-🚀+Building-%2300b4ff?style=flat-square&labelColor=000" />&nbsp;
 <img src="https://img.shields.io/badge/Open+To-✅+Hire+%26+Collab-%234FFFB0?style=flat-square&labelColor=000" />&nbsp;
-<img src="https://img.shields.io/badge/Location-India+🇮🇳-%23ffa657?style=flat-square&labelColor=000" />&nbsp;
-<img src="https://img.shields.io/badge/Response-⚡+Fast+on+WA-%2325D366?style=flat-square&labelColor=000" />
+<img src="https://img.shields.io/badge/Reply-⚡+Fast+on+WA-%2325D366?style=flat-square&labelColor=000" />&nbsp;
+<img src="https://img.shields.io/badge/India-🇮🇳+%2B91+75410+24846-%23ffa657?style=flat-square&labelColor=000" />
 
 </div>
 
-<!-- ANIMATED SHARK DOWN WAVE -->
+<!-- ANIMATED SHARK WAVE DOWN -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,50:001a0a,100:000000&height=80&section=header&reversal=true&animation=twinkling" />
 
 ---
@@ -69,97 +69,104 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=4FFFB0&center=true&vCenter=true&width=420&lines=👨‍💻+WHO+AM+I+%3F" alt="About" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3200&pause=600&color=8b949e&center=true&vCenter=true&width=750&lines=IIT+Patna+CSE+%7C+Full+Stack+Dev+%7C+TypeScript+Specialist+%7C+Builder+%7C+India+🇮🇳" alt="sub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=700&color=8b949e&center=true&vCenter=true&width=760&lines=IIT+Patna+CSE+%7C+Full+Stack+Dev+%7C+TypeScript+Specialist+%7C+Builder+%7C+India+🇮🇳" alt="sub" />
 
 </div>
 
 <br/>
 
 ```typescript
-// 📁 developer.ts — ISHUKR41
+// 📁 developer.ts — @ISHUKR41
 
-const ISHU_KUMAR: Developer = {
-  name          : "Ishu Kumar",
-  alias         : "@ISHUKR41",
-  location      : "India 🇮🇳",
+export const ISHU_KUMAR = {
+  name     : "Ishu Kumar",
+  alias    : "@ISHUKR41",
+  location : "India 🇮🇳",
+  portfolio: "https://ishu.fun",
 
-  education     : {
-    college      : "IIT Patna — भारतीय प्रौद्योगिकी संस्थान पटना 🏛️",
-    degree       : "B.Tech Computer Science & Engineering",
-    batch        : "2023 → 2027",
-    roll         : "2312res305",
-    collegeEmail : "ishu_2312res305@iitp.ac.in",
-    rank         : "NIRF #23 in India",
+  education: {
+    college : "IIT Patna — भारतीय प्रौद्योगिकी संस्थान पटना 🏛️",
+    degree  : "B.Tech Computer Science & Engineering",
+    batch   : "2023 → 2027",  roll: "2312res305",
+    email   : "ishu_2312res305@iitp.ac.in",  nirf: "#23 in India",
   },
 
-  contact       : {
-    email        : "ishukryk@gmail.com",
-    phone        : "+91 75410 24846",
-    whatsapp     : "https://wa.me/917541024846",   // ← fastest response
-    portfolio    : "https://ishu.fun",
-    youtube      : "https://youtube.com/@ishu-fun",
-    instagram    : "https://instagram.com/ishukr10",
-    linkedin     : "https://linkedin.com/in/ishu-kumar-5a0940281",
+  contact: {
+    email    : "ishukryk@gmail.com",
+    phone    : "+91 75410 24846",
+    whatsapp : "https://wa.me/917541024846",   // ← fastest reply
+    youtube  : "https://youtube.com/@ishu-fun",
+    instagram: "https://instagram.com/ishukr10",
+    linkedin : "https://linkedin.com/in/ishu-kumar-5a0940281",
   },
 
-  currentFocus  : ["🎓 EduTech", "🎮 GameDev", "💰 FinTech", "📖 Open Source"],
-
-  shipping      : {
-    "EduQuest"      : { tech: "TS+React+PostgreSQL", progress: 88, status: "🟢 Active" },
-    "TypeBlitz"     : { tech: "TypeScript",           progress: 65, status: "🟢 Active" },
-    "FinVault"      : { tech: "TS+PostgreSQL",        progress: 50, status: "🟡 Building" },
-    "ishu.fun"      : { tech: "TypeScript+Vercel",    progress: 95, status: "✅ Live" },
-    "BGMIFF"        : { tech: "TypeScript",           progress: 80, status: "🟢 Active" },
-    "Chess Engine"  : { tech: "TypeScript (scratch)", progress: 90, status: "🟢 Active" },
+  currentlyShipping: {
+    "EduQuest"   : { stack: "TS+React+PG",    progress: 88, live: false },
+    "TypeBlitz"  : { stack: "TypeScript",      progress: 65, live: false },
+    "FinVault"   : { stack: "TS+PostgreSQL",   progress: 50, live: false },
+    "ishu.fun"   : { stack: "TS+Vercel",       progress: 95, live: true  }, // ✅ LIVE
+    "BGMIFF"     : { stack: "TypeScript",      progress: 80, live: false },
+    "Chess Engine": { stack: "TS from scratch",progress: 90, live: false },
   },
 
-  techStack     : {
-    primary     : ["TypeScript ★ 87%", "JavaScript", "Python", "C++"],
-    frontend    : ["React", "Next.js", "Vite", "TailwindCSS", "HTML5", "CSS3"],
-    backend     : ["Node.js", "Express", "REST APIs", "WebSockets"],
-    database    : ["PostgreSQL", "Firebase", "Supabase", "Redis"],
-    ai          : ["OpenCV", "TensorFlow", "scikit-learn", "Computer Vision"],
-    devOps      : ["Git", "GitHub Actions", "Vercel", "Linux", "Docker (learning)"],
+  techStack: {
+    primary : ["TypeScript ★", "JavaScript", "Python", "C++"],
+    frontend: ["React", "Next.js", "Vite", "TailwindCSS", "HTML5", "CSS3"],
+    backend : ["Node.js", "Express", "REST APIs", "WebSockets"],
+    database: ["PostgreSQL", "Firebase", "Supabase", "Redis"],
+    ai_cv   : ["OpenCV", "TensorFlow", "scikit-learn", "Computer Vision"],
+    devOps  : ["Git", "GitHub Actions", "Vercel", "Linux", "Docker (learning)"],
   },
 
-  stats         : { repos: 67, commits: 400, codingStart: "Aug 2023", streak: "ongoing 🔥" },
-  motto         : "Build. Ship. Repeat. Never Stop. 🔥",
-};
+  stats   : { repos: 67, commits: "400+", start: "Aug 2023", streak: "ongoing 🔥" },
+  motto   : "Build. Ship. Repeat. Never Stop. 🔥",
+} as const;
 ```
 
-<!-- EGG DIVIDER -->
+<!-- ANIMATED EGG DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=0:000000,50:001a0a,100:000000&height=100&section=footer&animation=twinkling" />
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=d2a8ff&center=true&vCenter=true&width=480&lines=🏛️+ACADEMIC+BACKGROUND" alt="Acad" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=ffa657&center=true&vCenter=true&width=460&lines=💻+TERMINAL+SIMULATION" alt="Terminal" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=600&lines=Top-tier+engineering+institute+·+where+the+theory+meets+real+code+📐" alt="sub" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=640&lines=What+happens+when+you+hire+me+😄+→+watch+the+terminal+↓" alt="sub" />
 <br/><br/>
 
-<!-- IIT PATNA LOGO + INFO CARD -->
-<img src="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/main/assets/iitp-logo.png" width="120" height="120" alt="IIT Patna Logo" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🏛️+Indian+Institute+of+Technology+Patna-NIRF+%2323+in+India-%234FFFB0?style=for-the-badge&labelColor=000" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Degree-B.Tech+Computer+Science+%26+Engg-%234FFFB0?style=flat-square&labelColor=000" />&nbsp;
-<img src="https://img.shields.io/badge/Batch-2023--2027-%2300b4ff?style=flat-square&labelColor=000" />&nbsp;
-<img src="https://img.shields.io/badge/Roll+No-2312res305-%23d2a8ff?style=flat-square&labelColor=000" />&nbsp;
-<img src="https://img.shields.io/badge/Focus-DSA+%7C+WebDev+%7C+AI-%23ffa657?style=flat-square&labelColor=000" />&nbsp;
-<img src="https://img.shields.io/badge/Email-ishu__2312res305%40iitp.ac.in-%237ee787?style=flat-square&labelColor=000" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=500&color=4FFFB0&center=true&vCenter=true&width=800&lines=📚+Data+Structures+%26+Algorithms+%7C+OOP+%7C+Operating+Systems+%7C+DBMS;💻+Computer+Networks+%7C+Machine+Learning+%7C+Computer+Vision+%7C+Probability;🔬+Competitive+Programming+%7C+System+Design+%7C+Full+Stack+Web+Dev;🏛️+Motto%3A+%22विद्यार्थी+लभते+विद्याम्%22+—+The+student+obtains+knowledge" alt="courses" />
+<!-- ANIMATED TERMINAL LINE — CYCLING COMMANDS -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2000&pause=400&color=4FFFB0&center=true&vCenter=true&width=800&lines=user%40ishukr41+~+%24+whoami;→+Ishu+Kumar+%7C+Full+Stack+Dev+%7C+IIT+Patna+CSE+%7C+India+🇮🇳;user%40ishukr41+~+%24+cat+skills.json;→+%7B+ts%3A+87%25%2C+react%3A+expert%2C+node%3A+advanced%2C+py%3A+inter.+%7D;user%40ishukr41+~+%24+ls+projects%2F;→+eduquest%2F+typeblitz%2F+chess%2F+finvault%2F+bgmiff%2F+ishu.fun%2F;user%40ishukr41+~+%24+git+log+--oneline+-5;→+67%2B+repos+%7C+400%2B+commits+%7C+since+Aug+2023+%7C+streak%3A+ongoing+🔥;user%40ishukr41+~+%24+npm+run+build;→+✅+Built+successfully+in+0.8s+—+shipping+to+production+🚀;user%40ishukr41+~+%24+open+https%3A%2F%2Fishu.fun;→+🌐+Portfolio+is+LIVE+—+always+building%2C+always+shipping+💡" alt="terminal" />
 
 </div>
+
+```bash
+# 🖥️ ishu@iitp-patna:~ $ interactive session
+
+$ whoami
+→ Ishu Kumar | Full Stack Dev | IIT Patna CSE | +91 75410 24846
+
+$ cat about.md
+→ Building EduTech, GameDev, FinTech & open-source tools from India 🇮🇳
+→ TypeScript 87% | React | Node.js | PostgreSQL | OpenCV | 67+ repos
+
+$ ls ~/projects
+eduquest/   typeblitz/  chess-engine/  finvault/   bgmiff/
+ishu.fun/   campus-connect/  bgmiff/  open-cv/  dhaba-junction/
+smart-student-hub/  gully-esports/  ishu-tools/  cpp-dsa/
+
+$ git status
+→ Always: "Changes to be committed — next feature in progress 🔥"
+
+$ curl -s api.github.com/users/ISHUKR41 | jq '.public_repos'
+→ 67   # and counting every single day 📦
+
+$ echo $MOTTO
+→ "Build. Ship. Repeat. Never Stop." 🔥
+
+$ ping ishu.fun
+→ 🟢 LIVE — Reply time: <1ms | Status: Always Online ✅
+```
 
 <!-- COLORFUL AUTO DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=colorful&color=auto&height=10&section=header&animation=twinkling" />
@@ -168,46 +175,78 @@ const ISHU_KUMAR: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=00b4ff&center=true&vCenter=true&width=360&lines=⚡+TECH+STACK" alt="Tech" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=d2a8ff&center=true&vCenter=true&width=480&lines=🏛️+ACADEMIC+BACKGROUND" alt="Acad" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=620&lines=Tools+%26+technologies+I+use+to+build+awesome+projects+every+day+🛠️" alt="sub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=650&lines=Top-tier+engineering+institute+·+where+theory+meets+real+production+code+📐" alt="sub" />
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=99999&pause=99999&color=4FFFB0&center=true&vCenter=true&width=320&lines=◈+LANGUAGES+%26+CORE+◈" alt="l" />
+<img src="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/main/assets/iitp-logo.png" width="130" height="130" alt="IIT Patna Logo" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Indian+Institute+of+Technology+Patna-NIRF+%2323+in+India-%234FFFB0?style=for-the-badge&labelColor=000" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Degree-B.Tech+CSE-%234FFFB0?style=flat-square&labelColor=000" />&nbsp;
+<img src="https://img.shields.io/badge/Batch-2023--2027-%2300b4ff?style=flat-square&labelColor=000" />&nbsp;
+<img src="https://img.shields.io/badge/Roll-2312res305-%23d2a8ff?style=flat-square&labelColor=000" />&nbsp;
+<img src="https://img.shields.io/badge/Motto-विद्यार्थी+लभते+विद्याम्-%23ffa657?style=flat-square&labelColor=000" />&nbsp;
+<img src="https://img.shields.io/badge/Email-ishu__2312res305%40iitp.ac.in-%237ee787?style=flat-square&labelColor=000" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2100&pause=420&color=4FFFB0&center=true&vCenter=true&width=820&lines=📚+Data+Structures+%26+Algorithms+%7C+OOP+%7C+OS+%7C+DBMS+%7C+Computer+Networks;💻+Machine+Learning+%7C+Computer+Vision+%7C+Probability+%26+Statistics;🔬+Competitive+Programming+%7C+System+Design+%7C+Full+Stack+Web+Dev;🏛️+%22The+student+obtains+knowledge%22+—+विद्यार्थी+लभते+विद्याम्" alt="courses" />
+
+</div>
+
+<!-- RECT NEON DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4FFFB0,16:00b4ff,32:d2a8ff,48:ffa657,64:7ee787,80:ff7b72,100:4FFFB0&height=5&animation=twinkling" />
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=00b4ff&center=true&vCenter=true&width=360&lines=⚡+TECH+STACK" alt="Tech" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=640&lines=Tools+%26+tech+I+use+to+build+awesome+products+every+single+day+🛠️" alt="sub" />
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=99999&pause=99999&color=4FFFB0&center=true&vCenter=true&width=280&lines=◈+LANGUAGES+◈" alt="l" />
 <br/>
 <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,html,css&theme=dark&perline=6" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=99999&pause=99999&color=00b4ff&center=true&vCenter=true&width=320&lines=◈+FRONTEND+STACK+◈" alt="f" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=99999&pause=99999&color=00b4ff&center=true&vCenter=true&width=280&lines=◈+FRONTEND+◈" alt="f" />
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,figma,vercel&theme=dark&perline=6" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=99999&pause=99999&color=d2a8ff&center=true&vCenter=true&width=340&lines=◈+BACKEND+%26+DATABASE+◈" alt="b" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=99999&pause=99999&color=d2a8ff&center=true&vCenter=true&width=320&lines=◈+BACKEND+%26+DATABASE+◈" alt="b" />
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,firebase,supabase,redis&theme=dark&perline=6" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=99999&pause=99999&color=7ee787&center=true&vCenter=true&width=300&lines=◈+AI+%2F+ML+%2F+CV+◈" alt="ai" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=99999&pause=99999&color=7ee787&center=true&vCenter=true&width=260&lines=◈+AI+%26+ML+◈" alt="ai" />
 <br/>
-<img src="https://skillicons.dev/icons?i=opencv,python,tensorflow,pytorch,sklearn&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=opencv,python,tensorflow,pytorch&theme=dark&perline=4" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=99999&pause=99999&color=ffa657&center=true&vCenter=true&width=340&lines=◈+TOOLS+%26+DEVOPS+◈" alt="t" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=99999&pause=99999&color=ffa657&center=true&vCenter=true&width=300&lines=◈+TOOLS+%26+DEVOPS+◈" alt="t" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman&theme=dark&perline=6" />
 
 <br/><br/>
 
-<!-- USAGE BARS — ANIMATED -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=99999&pause=99999&color=4FFFB0&center=true&vCenter=true&width=760&lines=TypeScript+████████████████████░░░+87%25+★+Primary+Language" alt="bar1" />
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=99999&pause=99999&color=00b4ff&center=true&vCenter=true&width=760&lines=JavaScript+███████░░░░░░░░░░░░░░░░+7%25" alt="bar2" />
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=99999&pause=99999&color=d2a8ff&center=true&vCenter=true&width=760&lines=Python+████░░░░░░░░░░░░░░░░░░░░+5%25++OpenCV+%26+ML" alt="bar3" />
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=99999&pause=99999&color=ffa657&center=true&vCenter=true&width=760&lines=C%2B%2B+%2B+Others+█░░░░░░░░░░░░░░░░░░░░░░+1%25++DSA+%26+CP" alt="bar4" />
+<!-- ANIMATED LANGUAGE PROGRESS BARS -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=99999&pause=99999&color=4FFFB0&center=true&vCenter=true&width=780&lines=TypeScript+████████████████████░░░+87%25+★+Primary" alt="b1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=99999&pause=99999&color=00b4ff&center=true&vCenter=true&width=780&lines=JavaScript+███████░░░░░░░░░░░░░░░░+7%25" alt="b2" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=99999&pause=99999&color=d2a8ff&center=true&vCenter=true&width=780&lines=Python+++++████░░░░░░░░░░░░░░░░░░+5%25++OpenCV+%26+ML" alt="b3" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=99999&pause=99999&color=ffa657&center=true&vCenter=true&width=780&lines=C%2B%2B+%2B+Others+█░░░░░░░░░░░░░░░░░░░░░░+1%25++DSA+%26+CP" alt="b4" />
 
 </div>
 
@@ -215,48 +254,61 @@ const ISHU_KUMAR: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=ff7b72&center=true&vCenter=true&width=480&lines=⚔️+COMPETITIVE+PROGRAMMING" alt="CP" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=ff7b72&center=true&vCenter=true&width=480&lines=💡+CODING+PHILOSOPHY" alt="Philosophy" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=620&lines=Sharpening+DSA+at+IIT+Patna+—+grinding+problems+daily+💪" alt="sub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=640&lines=Principles+that+guide+every+line+of+code+I+write+📜" alt="sub" />
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LeetCode-Solving+Daily-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000" />&nbsp;
-<img src="https://img.shields.io/badge/Codeforces-Competitive+Programming-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000" />&nbsp;
-<img src="https://img.shields.io/badge/GeeksforGeeks-DSA+Practice-%230F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=000" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/C%2B%2B-DSA+%26+CP-%234FFFB0?style=flat-square&logo=cplusplus&logoColor=white&labelColor=000" />&nbsp;
-<img src="https://img.shields.io/badge/Topics-Arrays+%7C+Trees+%7C+Graphs+%7C+DP-%2300b4ff?style=flat-square&labelColor=000" />&nbsp;
-<img src="https://img.shields.io/badge/Focus-IIT+Patna+Curriculum+%2B+Self+Practice-%23d2a8ff?style=flat-square&labelColor=000" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=450&color=4FFFB0&center=true&vCenter=true&width=800&lines=🔷+Arrays+%26+Strings+—+Mastered+✅;🔷+Linked+Lists+%26+Stacks+%26+Queues+✅;🔷+Trees+%26+Binary+Search+Trees+✅;🔷+Graphs+—+BFS+%2F+DFS+%2F+Dijkstra+%2F+Topo+Sort+🔄;🔷+Dynamic+Programming+—+Learning+%26+Grinding+🎯;🔷+Greedy+%7C+Divide+%26+Conquer+%7C+Recursion+✅" alt="cp-topics" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2400&pause=500&color=4FFFB0&center=true&vCenter=true&width=840&lines=🔥+%22Ship+imperfect+code+that+works+>+perfect+code+that+doesn%27t%22;💡+%22Every+expert+was+once+a+beginner+who+refused+to+quit%22;🚀+%22The+best+time+to+start+was+yesterday.+The+second+best%3F+NOW%22;♟️+%22Think+10+steps+ahead+—+like+chess%2C+like+code%22;🏛️+%22IIT+taught+me+to+think.+Coding+taught+me+to+build%22;🌐+%22Open+source+is+how+the+world+gets+better+software%22;⚡+%22A+commit+a+day+keeps+stagnation+away+🔥%22" alt="philosophy" />
 
 </div>
 
-<!-- RECT NEON DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4FFFB0,25:00b4ff,50:d2a8ff,75:ffa657,100:7ee787&height=5&animation=twinkling" />
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  MY CODING MANIFESTO — @ISHUKR41                                        ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  I.   ALWAYS BE BUILDING — no idle days, no wasted commits             ║
+║  II.  SHIP EARLY, ITERATE FAST — perfect is the enemy of done          ║
+║  III. TYPESCRIPT FIRST — type safety is not optional, it's respect     ║
+║  IV.  OPEN SOURCE EVERYTHING — knowledge compounds when shared         ║
+║  V.   DOCUMENTATION IS CODE — if it's not documented, it doesn't exist ║
+║  VI.  LEARN IN PUBLIC — GitHub is my journal, commits are my proof     ║
+║  VII. IMPACT > LINES — 10 lines that ship > 1000 lines that don't     ║
+║                                                                          ║
+║  "The best developers are not those who write the most code —          ║
+║   but those who solve the most problems with the least complexity."     ║
+║                                                             — @ISHUKR41 ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<!-- SLICE DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:001a0a&height=100&section=header&animation=twinkling&reversal=true" />
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=7ee787&center=true&vCenter=true&width=480&lines=📺+MY+YOUTUBE+CHANNEL" alt="YT" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=7ee787&center=true&vCenter=true&width=460&lines=📚+CURRENTLY+LEARNING" alt="Learning" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=650&lines=Sharing+dev+content%2C+project+builds+%26+tech+tips+on+YouTube+📹" alt="sub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=640&lines=Always+leveling+up+—+never+stop+growing+📈" alt="sub" />
 <br/><br/>
 
-<a href="https://youtube.com/@ishu-fun?si=eVyUEVuE3ejtvqH_">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe+%40ishu--fun-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>&nbsp;
-<img src="https://img.shields.io/badge/Channel-ishu--fun-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000" />&nbsp;
-<img src="https://img.shields.io/badge/Content-Dev+%7C+Projects+%7C+Tech-%23ffa657?style=for-the-badge&logo=youtube&logoColor=ffa657&labelColor=000" />
+<img src="https://img.shields.io/badge/Learning-System+Design-%234FFFB0?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=000" />&nbsp;
+<img src="https://img.shields.io/badge/Learning-Docker+%26+K8s-%2300b4ff?style=for-the-badge&logo=docker&logoColor=white&labelColor=000" />&nbsp;
+<img src="https://img.shields.io/badge/Learning-Next.js+15-%23d2a8ff?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000" />&nbsp;
+<img src="https://img.shields.io/badge/Learning-ML+%26+PyTorch-%23ffa657?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=500&color=FF0000&center=true&vCenter=true&width=800&lines=🎬+Project+Builds+%26+Demos+—+Watch+Live+Development;📺+Tech+Tips+%26+Tutorials+for+Developers;🚀+Open+Source+%26+GitHub+Walkthroughs;⚡+TypeScript+%7C+React+%7C+Next.js+content;📱+Subscribe+to+%40ishu-fun+for+more+%21" alt="yt-content" />
+<img src="https://img.shields.io/badge/Studying-DSA+%40+IIT+Patna-%234FFFB0?style=flat-square&logo=leetcode&logoColor=white&labelColor=000" />&nbsp;
+<img src="https://img.shields.io/badge/Studying-PostgreSQL+Advanced-%2300b4ff?style=flat-square&logo=postgresql&logoColor=white&labelColor=000" />&nbsp;
+<img src="https://img.shields.io/badge/Studying-WebSockets+%26+RealTime-%23d2a8ff?style=flat-square&labelColor=000" />&nbsp;
+<img src="https://img.shields.io/badge/Studying-GraphQL+API+Design-%23ffa657?style=flat-square&logo=graphql&logoColor=white&labelColor=000" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2100&pause=420&color=4FFFB0&center=true&vCenter=true&width=820&lines=🔷+Advanced+System+Design+%26+Distributed+Systems+Architecture;🔷+Docker+%26+Kubernetes+—+containerization+%26+orchestration;🔷+Next.js+15+App+Router+%26+Server+Components;🔷+DSA+%26+Competitive+Programming+%40+IIT+Patna;🔷+Machine+Learning+with+PyTorch+%26+scikit-learn;🔷+PostgreSQL+optimization%2C+indexing+%26+query+planning;🔷+WebSockets+%26+real-time+application+architecture" alt="learning" />
 
 </div>
 
@@ -264,9 +316,28 @@ const ISHU_KUMAR: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=ffa657&center=true&vCenter=true&width=480&lines=⚙️+DEV+ENVIRONMENT" alt="Env" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=ff7b72&center=true&vCenter=true&width=460&lines=⚔️+COMPETITIVE+PROGRAMMING" alt="CP" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=600&lines=How+I+code%2C+build+%26+ship+projects+every+day+🖥️" alt="sub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=640&lines=Sharpening+DSA+at+IIT+Patna+—+grinding+problems+every+day+💪" alt="sub" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LeetCode-Daily+Grind-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000" />&nbsp;
+<img src="https://img.shields.io/badge/Codeforces-Competitive-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000" />&nbsp;
+<img src="https://img.shields.io/badge/GeeksforGeeks-DSA+%26+Theory-%230F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=000" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2000&pause=400&color=4FFFB0&center=true&vCenter=true&width=820&lines=✅+Arrays+%26+Strings+—+Mastered;✅+Linked+Lists+%7C+Stacks+%7C+Queues+—+Mastered;✅+Trees+%26+Binary+Search+Trees;🔄+Graphs+—+BFS+%2F+DFS+%2F+Dijkstra+%2F+Topo+Sort;🎯+Dynamic+Programming+—+Learning+%26+Grinding+Hard;🎯+Greedy+%7C+D%26C+%7C+Recursion+%7C+Backtracking" alt="cp-topics" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=4FFFB0&center=true&vCenter=true&width=460&lines=⚙️+DEV+ENVIRONMENT" alt="Env" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=640&lines=How+I+code%2C+build+%26+ship+projects+every+day+🖥️" alt="sub" />
 <br/><br/>
 
 <img src="https://img.shields.io/badge/OS-Windows+%2B+Linux-%234FFFB0?style=for-the-badge&logo=windows&logoColor=4FFFB0&labelColor=000" />&nbsp;
@@ -276,12 +347,12 @@ const ISHU_KUMAR: Developer = {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Pkg+Mgr-npm+%2F+pnpm-%234FFFB0?style=flat-square&logo=npm&logoColor=4FFFB0&labelColor=000" />&nbsp;
+<img src="https://img.shields.io/badge/Pkg-npm+%2F+pnpm-%234FFFB0?style=flat-square&logo=npm&logoColor=4FFFB0&labelColor=000" />&nbsp;
 <img src="https://img.shields.io/badge/VCS-Git+%2B+GitHub-%2300b4ff?style=flat-square&logo=git&logoColor=00b4ff&labelColor=000" />&nbsp;
 <img src="https://img.shields.io/badge/Deploy-Vercel+%2B+Pages-%23d2a8ff?style=flat-square&logo=vercel&logoColor=d2a8ff&labelColor=000" />&nbsp;
 <img src="https://img.shields.io/badge/CI%2FCD-GitHub+Actions-%23ffa657?style=flat-square&logo=githubactions&logoColor=ffa657&labelColor=000" />&nbsp;
-<img src="https://img.shields.io/badge/API+Test-Postman-%237ee787?style=flat-square&logo=postman&logoColor=7ee787&labelColor=000" />&nbsp;
-<img src="https://img.shields.io/badge/Learning-Docker+%26+K8s-%23ff7b72?style=flat-square&logo=docker&logoColor=ff7b72&labelColor=000" />
+<img src="https://img.shields.io/badge/API-Postman+%2B+Thunder-%237ee787?style=flat-square&logo=postman&logoColor=7ee787&labelColor=000" />&nbsp;
+<img src="https://img.shields.io/badge/DB+GUI-pgAdmin+%2B+TablePlus-%23ff7b72?style=flat-square&labelColor=000" />
 
 </div>
 
@@ -292,7 +363,7 @@ const ISHU_KUMAR: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2000&pause=400&color=4FFFB0&center=true&vCenter=true&width=850&lines=🎓+EduTech+%7C+🎮+Gaming+%7C+💰+FinTech+%7C+🌐+Tools+%7C+🤖+AI%2FML+%7C+♟️+Chess+%7C+🏟️+Esports+%7C+🎓+Campus+%7C+🍛+Food" alt="domains" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1900&pause=380&color=4FFFB0&center=true&vCenter=true&width=880&lines=🎓+EduTech+%7C+🎮+Gaming+%7C+💰+FinTech+%7C+🌐+Tools+%7C+🤖+AI%2FCV+%7C+♟️+Chess+%7C+🏟️+Esports+%7C+🎓+Campus+%7C+🍛+Food" alt="domains" />
 
 <br/><br/>
 
@@ -337,22 +408,22 @@ const ISHU_KUMAR: Developer = {
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=4FFFB0&center=true&vCenter=true&width=480&lines=📡+LIVE+PROJECT+STATUS" alt="Status" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=600&lines=Real-time+GitHub+data+for+every+project+📊" alt="sub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=640&lines=Real-time+GitHub+data+—+auto-updated+on+every+commit+📊" alt="sub" />
 <br/><br/>
 
-| 🚀 Project | ⭐ Stars | 🍴 Forks | 🐛 Issues | 📅 Last Commit |
-|---|---|---|---|---|
-| [eduquest](https://github.com/ISHUKR41/eduquest) | ![stars](https://img.shields.io/github/stars/ISHUKR41/eduquest?style=flat-square&color=4FFFB0&labelColor=000) | ![forks](https://img.shields.io/github/forks/ISHUKR41/eduquest?style=flat-square&color=00b4ff&labelColor=000) | ![issues](https://img.shields.io/github/issues/ISHUKR41/eduquest?style=flat-square&color=ffa657&labelColor=000) | ![commit](https://img.shields.io/github/last-commit/ISHUKR41/eduquest?style=flat-square&color=7ee787&labelColor=000) |
-| [typeblitz](https://github.com/ISHUKR41/typeblitz) | ![stars](https://img.shields.io/github/stars/ISHUKR41/typeblitz?style=flat-square&color=4FFFB0&labelColor=000) | ![forks](https://img.shields.io/github/forks/ISHUKR41/typeblitz?style=flat-square&color=00b4ff&labelColor=000) | ![issues](https://img.shields.io/github/issues/ISHUKR41/typeblitz?style=flat-square&color=ffa657&labelColor=000) | ![commit](https://img.shields.io/github/last-commit/ISHUKR41/typeblitz?style=flat-square&color=7ee787&labelColor=000) |
-| [chess-new](https://github.com/ISHUKR41/chess-new) | ![stars](https://img.shields.io/github/stars/ISHUKR41/chess-new?style=flat-square&color=4FFFB0&labelColor=000) | ![forks](https://img.shields.io/github/forks/ISHUKR41/chess-new?style=flat-square&color=00b4ff&labelColor=000) | ![issues](https://img.shields.io/github/issues/ISHUKR41/chess-new?style=flat-square&color=ffa657&labelColor=000) | ![commit](https://img.shields.io/github/last-commit/ISHUKR41/chess-new?style=flat-square&color=7ee787&labelColor=000) |
-| [BGMIFF](https://github.com/ISHUKR41/BGMIFF) | ![stars](https://img.shields.io/github/stars/ISHUKR41/BGMIFF?style=flat-square&color=4FFFB0&labelColor=000) | ![forks](https://img.shields.io/github/forks/ISHUKR41/BGMIFF?style=flat-square&color=00b4ff&labelColor=000) | ![issues](https://img.shields.io/github/issues/ISHUKR41/BGMIFF?style=flat-square&color=ffa657&labelColor=000) | ![commit](https://img.shields.io/github/last-commit/ISHUKR41/BGMIFF?style=flat-square&color=7ee787&labelColor=000) |
-| [finvault](https://github.com/ISHUKR41/finvault) | ![stars](https://img.shields.io/github/stars/ISHUKR41/finvault?style=flat-square&color=4FFFB0&labelColor=000) | ![forks](https://img.shields.io/github/forks/ISHUKR41/finvault?style=flat-square&color=00b4ff&labelColor=000) | ![issues](https://img.shields.io/github/issues/ISHUKR41/finvault?style=flat-square&color=ffa657&labelColor=000) | ![commit](https://img.shields.io/github/last-commit/ISHUKR41/finvault?style=flat-square&color=7ee787&labelColor=000) |
-| [ishu.fun](https://github.com/ISHUKR41/ishu.fun) | ![stars](https://img.shields.io/github/stars/ISHUKR41/ishu.fun?style=flat-square&color=4FFFB0&labelColor=000) | ![forks](https://img.shields.io/github/forks/ISHUKR41/ishu.fun?style=flat-square&color=00b4ff&labelColor=000) | ![issues](https://img.shields.io/github/issues/ISHUKR41/ishu.fun?style=flat-square&color=ffa657&labelColor=000) | ![commit](https://img.shields.io/github/last-commit/ISHUKR41/ishu.fun?style=flat-square&color=7ee787&labelColor=000) |
-| [OPEN-CV](https://github.com/ISHUKR41/OPEN-CV) | ![stars](https://img.shields.io/github/stars/ISHUKR41/OPEN-CV?style=flat-square&color=4FFFB0&labelColor=000) | ![forks](https://img.shields.io/github/forks/ISHUKR41/OPEN-CV?style=flat-square&color=00b4ff&labelColor=000) | ![issues](https://img.shields.io/github/issues/ISHUKR41/OPEN-CV?style=flat-square&color=ffa657&labelColor=000) | ![commit](https://img.shields.io/github/last-commit/ISHUKR41/OPEN-CV?style=flat-square&color=7ee787&labelColor=000) |
+| 🚀 Project | ⭐ Stars | 🍴 Forks | 🐛 Issues | 📅 Last Commit | 🏷️ Top Language |
+|---|---|---|---|---|---|
+| [eduquest](https://github.com/ISHUKR41/eduquest) | ![s](https://img.shields.io/github/stars/ISHUKR41/eduquest?style=flat-square&color=4FFFB0&labelColor=000) | ![f](https://img.shields.io/github/forks/ISHUKR41/eduquest?style=flat-square&color=00b4ff&labelColor=000) | ![i](https://img.shields.io/github/issues/ISHUKR41/eduquest?style=flat-square&color=ffa657&labelColor=000) | ![c](https://img.shields.io/github/last-commit/ISHUKR41/eduquest?style=flat-square&color=7ee787&labelColor=000) | ![l](https://img.shields.io/github/languages/top/ISHUKR41/eduquest?style=flat-square&color=d2a8ff&labelColor=000) |
+| [typeblitz](https://github.com/ISHUKR41/typeblitz) | ![s](https://img.shields.io/github/stars/ISHUKR41/typeblitz?style=flat-square&color=4FFFB0&labelColor=000) | ![f](https://img.shields.io/github/forks/ISHUKR41/typeblitz?style=flat-square&color=00b4ff&labelColor=000) | ![i](https://img.shields.io/github/issues/ISHUKR41/typeblitz?style=flat-square&color=ffa657&labelColor=000) | ![c](https://img.shields.io/github/last-commit/ISHUKR41/typeblitz?style=flat-square&color=7ee787&labelColor=000) | ![l](https://img.shields.io/github/languages/top/ISHUKR41/typeblitz?style=flat-square&color=d2a8ff&labelColor=000) |
+| [chess-new](https://github.com/ISHUKR41/chess-new) | ![s](https://img.shields.io/github/stars/ISHUKR41/chess-new?style=flat-square&color=4FFFB0&labelColor=000) | ![f](https://img.shields.io/github/forks/ISHUKR41/chess-new?style=flat-square&color=00b4ff&labelColor=000) | ![i](https://img.shields.io/github/issues/ISHUKR41/chess-new?style=flat-square&color=ffa657&labelColor=000) | ![c](https://img.shields.io/github/last-commit/ISHUKR41/chess-new?style=flat-square&color=7ee787&labelColor=000) | ![l](https://img.shields.io/github/languages/top/ISHUKR41/chess-new?style=flat-square&color=d2a8ff&labelColor=000) |
+| [BGMIFF](https://github.com/ISHUKR41/BGMIFF) | ![s](https://img.shields.io/github/stars/ISHUKR41/BGMIFF?style=flat-square&color=4FFFB0&labelColor=000) | ![f](https://img.shields.io/github/forks/ISHUKR41/BGMIFF?style=flat-square&color=00b4ff&labelColor=000) | ![i](https://img.shields.io/github/issues/ISHUKR41/BGMIFF?style=flat-square&color=ffa657&labelColor=000) | ![c](https://img.shields.io/github/last-commit/ISHUKR41/BGMIFF?style=flat-square&color=7ee787&labelColor=000) | ![l](https://img.shields.io/github/languages/top/ISHUKR41/BGMIFF?style=flat-square&color=d2a8ff&labelColor=000) |
+| [ishu.fun](https://github.com/ISHUKR41/ishu.fun) | ![s](https://img.shields.io/github/stars/ISHUKR41/ishu.fun?style=flat-square&color=4FFFB0&labelColor=000) | ![f](https://img.shields.io/github/forks/ISHUKR41/ishu.fun?style=flat-square&color=00b4ff&labelColor=000) | ![i](https://img.shields.io/github/issues/ISHUKR41/ishu.fun?style=flat-square&color=ffa657&labelColor=000) | ![c](https://img.shields.io/github/last-commit/ISHUKR41/ishu.fun?style=flat-square&color=7ee787&labelColor=000) | ![l](https://img.shields.io/github/languages/top/ISHUKR41/ishu.fun?style=flat-square&color=d2a8ff&labelColor=000) |
+| [OPEN-CV](https://github.com/ISHUKR41/OPEN-CV) | ![s](https://img.shields.io/github/stars/ISHUKR41/OPEN-CV?style=flat-square&color=4FFFB0&labelColor=000) | ![f](https://img.shields.io/github/forks/ISHUKR41/OPEN-CV?style=flat-square&color=00b4ff&labelColor=000) | ![i](https://img.shields.io/github/issues/ISHUKR41/OPEN-CV?style=flat-square&color=ffa657&labelColor=000) | ![c](https://img.shields.io/github/last-commit/ISHUKR41/OPEN-CV?style=flat-square&color=7ee787&labelColor=000) | ![l](https://img.shields.io/github/languages/top/ISHUKR41/OPEN-CV?style=flat-square&color=d2a8ff&labelColor=000) |
+| [finvault](https://github.com/ISHUKR41/finvault) | ![s](https://img.shields.io/github/stars/ISHUKR41/finvault?style=flat-square&color=4FFFB0&labelColor=000) | ![f](https://img.shields.io/github/forks/ISHUKR41/finvault?style=flat-square&color=00b4ff&labelColor=000) | ![i](https://img.shields.io/github/issues/ISHUKR41/finvault?style=flat-square&color=ffa657&labelColor=000) | ![c](https://img.shields.io/github/last-commit/ISHUKR41/finvault?style=flat-square&color=7ee787&labelColor=000) | ![l](https://img.shields.io/github/languages/top/ISHUKR41/finvault?style=flat-square&color=d2a8ff&labelColor=000) |
 
 </div>
 
-<!-- SOFT WAVE DIVIDER -->
+<!-- SOFT DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:001a0a&height=80&section=footer&animation=twinkling" />
 
 ---
@@ -361,11 +432,16 @@ const ISHU_KUMAR: Developer = {
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=4FFFB0&center=true&vCenter=true&width=380&lines=📊+LIVE+GITHUB+STATS" alt="Stats" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=600&lines=Real-time+stats+from+GitHub+API+·+updated+on+every+page+load+📡" alt="sub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=640&lines=Real-time+stats+from+GitHub+API+·+updates+on+every+page+load+📡" alt="sub" />
 <br/><br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ISHUKR41&show_icons=true&theme=github_dark&bg_color=010409&title_color=4FFFB0&icon_color=4FFFB0&text_color=c9d1d9&border_color=21262d&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 <img width="49%" src="https://streak-stats.demolab.com?user=ISHUKR41&theme=github-dark-blue&background=010409&border=21262d&stroke=4FFFB0&ring=4FFFB0&fire=00b4ff&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=4FFFB0&sideLabels=8b949e&dates=8b949e&border_radius=12" />
+
+<br/><br/>
+
+<!-- SECOND STREAK — DIFFERENT THEME -->
+<img width="60%" src="https://streak-stats.demolab.com?user=ISHUKR41&theme=dark&background=010409&border=21262d&stroke=d2a8ff&ring=d2a8ff&fire=ffa657&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=d2a8ff&sideLabels=8b949e&dates=8b949e&border_radius=12&mode=weekly" />
 
 <br/><br/>
 
@@ -380,7 +456,7 @@ const ISHU_KUMAR: Developer = {
 </div>
 
 <!-- NEON GRADIENT DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4FFFB0,20:00b4ff,40:d2a8ff,60:ffa657,80:7ee787,100:4FFFB0&height=5&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4FFFB0,16:00b4ff,32:d2a8ff,48:ffa657,64:7ee787,80:ff7b72,100:4FFFB0&height=5&animation=twinkling" />
 
 ---
 
@@ -388,7 +464,7 @@ const ISHU_KUMAR: Developer = {
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=d2a8ff&center=true&vCenter=true&width=420&lines=🧠+PROFILE+DEEP+STATS" alt="Deep" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=600&lines=5-card+deep+profile+summary+·+live+updated+on+every+push+↓" alt="sub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=640&lines=5-card+deep+profile+summary+·+live-updated+on+every+push+↓" alt="sub" />
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISHUKR41&theme=github_dark" width="98%" />
@@ -408,12 +484,18 @@ const ISHU_KUMAR: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=7ee787&center=true&vCenter=true&width=480&lines=📈+LIVE+CONTRIBUTION+GRAPH" alt="Graph" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=7ee787&center=true&vCenter=true&width=480&lines=📈+LIVE+CONTRIBUTION+GRAPHS" alt="Graph" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=650&lines=Every+commit+visualized+·+real-time+activity+—+watch+it+grow+📊" alt="sub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=640&lines=Every+commit+visualized+in+real-time+—+watch+the+green+grow+📊" alt="sub" />
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ISHUKR41&bg_color=010409&color=4FFFB0&line=4FFFB0&point=00b4ff&area=true&area_color=001a0a&hide_border=false&border_color=21262d&radius=12&custom_title=ISHUKR41+Real-Time+Contribution+Activity" />
+<!-- GRAPH 1 — GREEN -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ISHUKR41&bg_color=010409&color=4FFFB0&line=4FFFB0&point=00b4ff&area=true&area_color=001a0a&hide_border=false&border_color=21262d&radius=12&custom_title=ISHUKR41+Contribution+Activity+—+Green+%F0%9F%9F%A2" />
+
+<br/><br/>
+
+<!-- GRAPH 2 — BLUE VARIANT -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ISHUKR41&bg_color=010409&color=00b4ff&line=d2a8ff&point=4FFFB0&area=true&area_color=00102a&hide_border=false&border_color=21262d&radius=12&custom_title=ISHUKR41+Contribution+Activity+—+Blue+%F0%9F%94%B5" />
 
 </div>
 
@@ -423,17 +505,13 @@ const ISHU_KUMAR: Developer = {
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=ffa657&center=true&vCenter=true&width=380&lines=🏆+GITHUB+TROPHIES" alt="Trophies" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=600&lines=Achievements+unlocked+through+consistent+daily+coding+🏅" alt="sub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=640&lines=Achievements+unlocked+through+consistent+daily+coding+🏅" alt="sub" />
 <br/><br/>
 
 <img width="98%" src="https://github-profile-trophy.vercel.app/?username=ISHUKR41&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-
 <br/>
-
 <img width="80%" src="https://github-profile-trophy.vercel.app/?username=ISHUKR41&theme=matrix&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA" />
-
 <br/>
-
 <img width="58%" src="https://github-profile-trophy.vercel.app/?username=ISHUKR41&theme=nord&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=3&rank=SECRET,SSS,SS" />
 
 </div>
@@ -447,13 +525,13 @@ const ISHU_KUMAR: Developer = {
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=4FFFB0&center=true&vCenter=true&width=420&lines=🐍+CONTRIBUTION+SNAKE" alt="Snake" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=2800&pause=600&color=8b949e&center=true&vCenter=true&width=720&lines=🔄+Auto-regenerated+every+12+hours+via+GitHub+Actions;⚡+Every+commit+gets+eaten+by+the+snake+🐍;🌙+Dark+%26+light+mode+adaptive+—+switches+automatically" alt="sub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=2800&pause=600&color=8b949e&center=true&vCenter=true&width=720&lines=🔄+Regenerated+every+12+hours+via+GitHub+Actions+—+100%25+real+data;⚡+Every+commit+you+make+gets+eaten+by+the+snake+🐍;🌙+Auto-adapts+to+dark+%26+light+mode" alt="sub" />
 <br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/output/github-contribution-grid-snake-dark.svg" width="98%" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/output/github-contribution-grid-snake-dark.svg" width="98%" />
 </picture>
 
 </div>
@@ -464,15 +542,15 @@ const ISHU_KUMAR: Developer = {
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=00b4ff&center=true&vCenter=true&width=460&lines=🌐+3D+CONTRIBUTION+CALENDAR" alt="3D" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=2800&pause=600&color=8b949e&center=true&vCenter=true&width=720&lines=🌙+Auto-updated+nightly+via+GitHub+Actions;🏔️+Every+commit+appears+as+3D+height+—+isometric+view;🎨+Night+rainbow+theme+—+most+visual+impact" alt="sub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=2800&pause=600&color=8b949e&center=true&vCenter=true&width=720&lines=🌙+Updated+nightly+via+GitHub+Actions+—+every+commit+in+3D;🏔️+Height+=+commit+intensity+·+Isometric+3D+view;🎨+Night+rainbow+color+scheme+—+maximum+visual+impact" alt="sub" />
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/main/profile-night-rainbow.svg" width="98%" alt="3D Contribution Calendar" />
 
 </div>
 
-<!-- SLICE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:001a0a&height=100&section=header&animation=twinkling&reversal=true" />
+<!-- EGG DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=0:000000,50:001a0a,100:000000&height=100&section=footer&animation=twinkling" />
 
 ---
 
@@ -480,30 +558,30 @@ const ISHU_KUMAR: Developer = {
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=d2a8ff&center=true&vCenter=true&width=340&lines=⏳+MY+JOURNEY" alt="Journey" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=620&lines=From+zero+to+67%2B+repos+and+IIT+Patna+—+the+full+story+📖" alt="sub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=640&lines=From+zero+to+IIT+Patna+%26+67%2B+repos+—+the+complete+story+📖" alt="sub" />
 
 </div>
 
 <br/>
 
 ```
- ████  Aug 2023  → First commit — HTML & CSS basics. The seed is planted! 🌱
- ████  Oct 2023  → JavaScript, DOM manipulation, responsive design ⚡
- ████  Jan 2024  → React + REST APIs + full stack thinking UNLOCKED 🔓
- ████  Apr 2024  → TypeScript mastery begins — it changes everything 💙
+ ████  Aug 2023  → First commit — HTML & CSS. The seed is planted! 🌱
+ ████  Oct 2023  → JavaScript, DOM, responsive design. First real sites ⚡
+ ████  Jan 2024  → React + REST APIs + full stack mindset UNLOCKED 🔓
+ ████  Apr 2024  → TypeScript mastery begins — changes everything 💙
  ████  Jul 2024  → Python + OpenCV — computer vision & ML 🤖
- ████  Oct 2024  → Chess engine from scratch in TypeScript ♟️
+ ████  Oct 2024  → Chess engine from SCRATCH in TypeScript ♟️
  ████  Nov 2024  → CAMPUS CONNECT — college social networking 🎓
  ████  Jan 2025  → Chess Game polished + multiplayer architecture ♟️
- ████  Feb 2025  → Valentine's Day project — creative dev unlocked 💝
+ ████  Feb 2025  → Valentine's Day project — creative dev mode 💝
  ████  Jul 2025  → BGMI + Free Fire esports tournament platforms 🎮
- ████  Oct 2025  → SmartStudentHub + BGMIFF major releases 🏟️
+ ████  Oct 2025  → SmartStudentHub + BGMIFF — major feature releases 🏟️
  ████  Nov 2025  → ISHU TOOLS PAGE — personal productivity suite 🛠️
- ████  Dec 2025  → Dhaba Junction NIT — campus food ordering app 🍛
- ████  Mar 2026  → ishu.fun launched — personal brand hub 🌐
+ ████  Dec 2025  → Dhaba Junction NIT — campus food ordering 🍛
+ ████  Mar 2026  → ishu.fun — personal brand & tools hub 🌐
  ████  Apr 2026  → FinVault — personal finance tracker goes live 💰
- ████  May 2026  → GullyEsports — community esports platform 🏟️
- ████  Jun 2026  → EduQuest + TypeBlitz — shipped back-to-back 🚀
+ ████  May 2026  → GullyEsports — community gaming platform 🏟️
+ ████  Jun 2026  → EduQuest + TypeBlitz — back-to-back shipped 🚀
  ████  NOW       → IIT Patna · 67+ repos · Building · Never stopping 🔥
 ```
 
@@ -513,14 +591,14 @@ const ISHU_KUMAR: Developer = {
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=ffa657&center=true&vCenter=true&width=360&lines=🎯+GOALS+2026" alt="Goals" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=600&lines=What+I%27m+working+towards+this+year+🎯" alt="sub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=620&lines=What+I%27m+targeting+this+year+—+one+milestone+at+a+time+🎯" alt="sub" />
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1900&pause=380&color=4FFFB0&center=true&vCenter=true&width=820&lines=✅+Launch+EduQuest+—+India%27s+next-gen+EduTech+platform;✅+Ship+TypeBlitz+to+1000%2B+users+worldwide;✅+GullyEsports+goes+live+for+community+gaming;🔄+Grow+ishu.fun+to+10%2B+tools+%26+1000%2B+monthly+users;🔄+Build+FinVault+into+a+complete+finance+suite;🎯+Reach+100+GitHub+repositories+milestone;🎯+Get+first+10+GitHub+Stars+⭐+on+a+project;🎯+Land+first+open+source+contribution+to+top+50+pkg;🚀+Land+first+internship+or+freelance+client+💼;🏛️+Ace+DSA+%2F+CP+%26+maintain+CGPA+at+IIT+Patna" alt="goals" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=1850&pause=370&color=4FFFB0&center=true&vCenter=true&width=840&lines=✅+EduQuest+—+India%27s+next-gen+EduTech+platform+launched;✅+TypeBlitz+—+shipped+to+1000%2B+users+worldwide;✅+GullyEsports+—+community+gaming+platform+live;🔄+ishu.fun+→+10%2B+tools+%26+1000%2B+monthly+visitors;🔄+FinVault+→+complete+personal+finance+suite;🎯+100+GitHub+repos+milestone;🎯+First+10+GitHub+Stars+⭐+on+a+project;🎯+Contribute+to+a+top+open+source+package;🚀+Land+first+internship+or+freelance+client+💼;🏛️+Ace+DSA+%2F+CP+%26+maintain+strong+CGPA+at+IIT+Patna" alt="goals" />
 
 </div>
 
-<!-- BLINKING ROUNDED DIVIDER -->
+<!-- ROUNDED BLINKING DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,50:001a0a,100:000000&height=80&section=footer&animation=blinking" />
 
 ---
@@ -535,36 +613,32 @@ const ISHU_KUMAR: Developer = {
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  ██  ISHUKR41  ·  IIT Patna B.Tech CSE  ·  ishu.fun  ·  India 🇮🇳         ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
 ║  LANGUAGE         USAGE             MASTERY         SINCE                   ║
 ║  TypeScript  ████████████████████░  87%  Expert     Jan 2024               ║
 ║  JavaScript  ███████░░░░░░░░░░░░░    7%  Advanced   Oct 2023               ║
 ║  Python      █████░░░░░░░░░░░░░░░    5%  Inter.     Jul 2024               ║
 ║  C++ / Other █░░░░░░░░░░░░░░░░░░░    1%  Learning   Apr 2024               ║
-║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
 ║  EDUCATION                                                                   ║
-║  🏛️  IIT Patna — B.Tech CSE (2023–2027) · NIRF Rank #23                   ║
+║  🏛️  IIT Patna — B.Tech CSE · 2023–2027 · NIRF Rank #23                   ║
 ║  📧  ishu_2312res305@iitp.ac.in  ·  Roll: 2312res305                       ║
-║                                                                              ║
-║  CURRENTLY SHIPPING              PROGRESS   STATUS    STACK                  ║
-║  [▶▶] EduQuest    ████████████████████░░   88%  🟢   TS+React+PG           ║
-║  [▶▶] TypeBlitz   ████████████████░░░░░░   65%  🟢   TypeScript            ║
-║  [▶▶] FinVault    ████████████░░░░░░░░░░   50%  🟡   TS+PostgreSQL         ║
-║  [▶▶] ishu.fun    ██████████████████████   95%  ✅   TS → LIVE!            ║
-║  [▶▶] BGMIFF      ████████████████████░░   80%  🟢   TypeScript            ║
-║  [▶▶] GullyEsports ███████████████░░░░░░   60%  🟡   TypeScript            ║
-║                                                                              ║
-║  DOMAINS (67+ repos)                                                         ║
-║  [✓] EduTech   [✓] GameDev   [✓] FinTech   [✓] AI/OpenCV                  ║
-║  [✓] WebTools  [✓] Portfolio [✓] Campus    [✓] Esports                     ║
-║  [✓] Chess AI  [✓] TypeBlitz [✓] ishu.fun  [✓] BGMIFF                     ║
-║  [✓] FoodTech  [✓] StudentHub [✓] CPP-DSA  [✓] Browser Tools               ║
-║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  CURRENTLY SHIPPING          PROGRESS   STATUS    STACK                      ║
+║  [▶] EduQuest   ████████████████████░  88%  🟢   TS+React+PG               ║
+║  [▶] TypeBlitz  ████████████████░░░░░  65%  🟢   TypeScript                ║
+║  [▶] FinVault   ████████████░░░░░░░░░  50%  🟡   TS+PostgreSQL             ║
+║  [▶] ishu.fun   ██████████████████████ 95%  ✅   TS → LIVE!                ║
+║  [▶] BGMIFF     ████████████████████░  80%  🟢   TypeScript                ║
+║  [▶] GullyEsports ██████████████░░░░░  60%  🟡   TypeScript                ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  DOMAINS (67+ repos across 16+ categories)                                   ║
+║  EduTech · GameDev · FinTech · AI/OpenCV · WebTools · Portfolio             ║
+║  Campus · Esports · ChessAI · TypeBlitz · ishu.fun · BGMIFF                 ║
+║  FoodTech · StudentHub · DSA/CPP · Browser Tools · GullyEsports             ║
+╠══════════════════════════════════════════════════════════════════════════════╣
 ║  CONTACT                                                                     ║
 ║  📱 +91 75410 24846   📧 ishukryk@gmail.com    🌐 ishu.fun                 ║
 ║  📺 @ishu-fun         📷 @ishukr10             💼 linkedin/ishu-kumar       ║
-║  🏛️  ishu_2312res305@iitp.ac.in               🐙 github.com/ISHUKR41       ║
-║                                                                              ║
 ║  STATUS:  ◉ ONLINE  ◉ BUILDING  ◉ SHIPPING  ○ SLEEPING (after 3am only)   ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -578,7 +652,7 @@ const ISHU_KUMAR: Developer = {
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=500&lines=Things+that+make+me+%2C+me+😄" alt="sub" />
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2100&pause=420&color=4FFFB0&center=true&vCenter=true&width=830&lines=🏛️+B.Tech+CSE+%40+IIT+Patna+—+engineering+meets+real-world+coding;♟️+Built+a+full+chess+AI+engine+from+scratch+in+TypeScript;🔥+Started+Aug+2023+—+coded+EVERY+single+day+since+then;🎮+I+build+esports+platforms+for+BGMI+%26+Free+Fire+players;🤖+Exploring+OpenCV+%26+ML+for+computer+vision+%40+IIT;🌐+I+run+ishu.fun+—+personal+tools+%26+productivity+hub;💡+I+think+in+TypeScript+and+dream+in+React+components;🍛+Built+Dhaba+Junction+NIT+—+campus+food+ordering+platform;⌨️+Building+TypeBlitz+—+competitive+real-time+typing+game;🚀+67%2B+repos+shipped+—+and+I%27m+just+getting+started!" alt="facts" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=400&color=4FFFB0&center=true&vCenter=true&width=860&lines=🏛️+B.Tech+CSE+%40+IIT+Patna+—+one+of+India%27s+top+engineering+institutes;♟️+Built+a+full+chess+AI+engine+from+scratch+in+TypeScript;🔥+Coded+every+single+day+since+Aug+2023+—+NEVER+missed+a+day;🎮+Builds+esports+platforms+for+BGMI+%26+Free+Fire+communities;🤖+Exploring+OpenCV+%26+ML+for+real+computer+vision+projects;🌐+Runs+ishu.fun+—+personal+tools+%26+productivity+hub;⌨️+Building+TypeBlitz+—+real-time+competitive+typing+game;🍛+Built+Dhaba+Junction+NIT+—+campus+food+ordering+platform;💡+I+think+in+TypeScript+and+dream+in+React+components;🚀+67%2B+repos+—+and+I%27m+JUST+getting+started+bhai!" alt="facts" />
 
 </div>
 
@@ -604,7 +678,7 @@ const ISHU_KUMAR: Developer = {
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=99999&pause=99999&color=d2a8ff&center=true&vCenter=true&width=360&lines=💭+DAILY+DEV+QUOTE" alt="Quote" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=500&lines=A+fresh+inspiring+quote+every+day+💡" alt="sub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=99999&pause=99999&color=8b949e&center=true&vCenter=true&width=500&lines=A+fresh+quote+every+day+to+keep+the+motivation+high+💡" alt="sub" />
 <br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="85%" />
@@ -620,7 +694,7 @@ const ISHU_KUMAR: Developer = {
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2300&pause=460&color=8b949e&center=true&vCenter=true&width=780&lines=👋+Available+for+collaborations+%26+open+source+work;📬+Reach+me+on+any+platform+below+↓;🚀+Let%27s+build+something+legendary+together!;💼+Open+to+freelance%2C+internships+%26+cool+ideas;⚡+Fastest+reply+on+WhatsApp+%3A+%2B91+75410+24846;🏛️+IIT+Patna+CSE+Student+—+Class+of+2027" alt="connect" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=440&color=8b949e&center=true&vCenter=true&width=800&lines=👋+Available+for+collaborations+%26+open+source+work;📬+Reach+me+on+any+platform+below+↓;🚀+Let%27s+build+something+legendary+together!;💼+Open+to+freelance%2C+internships+%26+cool+ideas;⚡+Fastest+reply+on+WhatsApp+%3A+%2B91+75410+24846;🏛️+IIT+Patna+CSE+·+Class+of+2027" alt="connect" />
 
 <br/><br/>
 
@@ -653,7 +727,7 @@ const ISHU_KUMAR: Developer = {
 
 | Platform | Contact |
 |---|---|
-| 📱 **Phone / WhatsApp** | [+91 75410 24846](https://wa.me/917541024846) — fastest response! |
+| 📱 **Phone / WhatsApp** | [+91 75410 24846](https://wa.me/917541024846) — fastest response! ⚡ |
 | 📧 **Gmail** | [ishukryk@gmail.com](mailto:ishukryk@gmail.com) |
 | 🏛️ **IIT Patna Mail** | [ishu_2312res305@iitp.ac.in](mailto:ishu_2312res305@iitp.ac.in) |
 | 🌐 **Portfolio** | [ishu.fun](https://ishu.fun) |
@@ -661,7 +735,7 @@ const ISHU_KUMAR: Developer = {
 | 📺 **YouTube** | [@ishu-fun](https://youtube.com/@ishu-fun) |
 | 📷 **Instagram** | [@ishukr10](https://www.instagram.com/ishukr10) |
 | 🐙 **GitHub** | [ISHUKR41](https://github.com/ISHUKR41) |
-| 🏛️ **College** | IIT Patna · B.Tech CSE · 2023–2027 |
+| 🏛️ **College** | IIT Patna · B.Tech CSE · 2023–2027 · NIRF #23 |
 
 <br/>
 
@@ -669,7 +743,7 @@ const ISHU_KUMAR: Developer = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:001a0a,40:003311,60:001a0a,80:000d05,100:000000&height=220&section=footer&text=Thanks+for+visiting!+👋&fontSize=38&fontColor=4FFFB0&animation=twinkling&fontAlignY=62&desc=⭐+Star+a+repo+·+Made+with+🔥+by+Ishu+Kumar+·+IIT+Patna+·+India+🇮🇳&descSize=15&descColor=8b949e&descAlignY=79" />
 
 <!-- FOOTER CYCLING TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2800&pause=650&color=4FFFB0&center=true&vCenter=true&width=780&lines=Thanks+for+visiting+👋+—+Let%27s+build+something+legendary!;⭐+Star+a+repo+if+you+find+it+useful!;Made+with+🔥+by+Ishu+Kumar+%7C+IIT+Patna+%7C+India+🇮🇳;Building+the+future+one+TypeScript+commit+at+a+time+🚀;Follow+%40ISHUKR41+on+GitHub+for+more+awesome+projects!;💬+Chat+on+WhatsApp+%3A+%2B91+75410+24846" alt="footer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2700&pause=600&color=4FFFB0&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+👋+—+Let%27s+build+something+legendary!;⭐+Star+a+repo+if+you+find+it+useful!;Made+with+🔥+by+Ishu+Kumar+%7C+IIT+Patna+%7C+India+🇮🇳;Building+the+future+one+TypeScript+commit+at+a+time+🚀;Follow+%40ISHUKR41+on+GitHub+for+more+awesome+projects!;💬+DM+on+WA+%3A+%2B91+75410+24846+—+always+down+to+collab!" alt="footer" />
 
 <br/>
 
