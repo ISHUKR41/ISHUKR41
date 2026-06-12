@@ -1,0 +1,65 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgFF" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#0d1a10"/>
+    </linearGradient>
+    <filter id="gFF">
+      <feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- BG -->
+  <rect width="900" height="200" rx="12" fill="url(#bgFF)"/>
+  <rect x="0.5" y="0.5" width="899" height="199" rx="11.5" fill="none" stroke="#C084FC" stroke-width="1" stroke-opacity="0.4">
+    <animate attributeName="stroke-opacity" values="0.4;0.8;0.4" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Title -->
+  <text x="450" y="32" fill="#C084FC" font-family="'Courier New',monospace" font-size="13" font-weight="900" text-anchor="middle" letter-spacing="5" filter="url(#gFF)">◈  FUN  FACTS  ABOUT  ME  ◈</text>
+  <rect x="20" y="42" width="860" height="1" fill="#C084FC" fill-opacity="0.15"/>
+
+  <!-- 9 fun facts in a 3x3 grid -->
+  <!-- Row 1 -->
+  <rect x="24" y="52" width="270" height="40" rx="6" fill="#161b22"/>
+  <text x="34" y="73" fill="#00FF88" font-family="monospace" font-size="12">☕ Tea over Coffee — always</text>
+  <text x="34" y="87" fill="#8b949e" font-family="monospace" font-size="10">caffeine-based dev</text>
+
+  <rect x="314" y="52" width="272" height="40" rx="6" fill="#161b22"/>
+  <text x="324" y="73" fill="#00E5FF" font-family="monospace" font-size="12">🌙 3am is prime coding time</text>
+  <text x="324" y="87" fill="#8b949e" font-family="monospace" font-size="10">night owl engineer</text>
+
+  <rect x="606" y="52" width="270" height="40" rx="6" fill="#161b22"/>
+  <text x="616" y="73" fill="#C084FC" font-family="monospace" font-size="12">♟ Chess in TypeScript</text>
+  <text x="616" y="87" fill="#8b949e" font-family="monospace" font-size="10">zero dependencies, pure TS</text>
+
+  <!-- Row 2 -->
+  <rect x="24" y="100" width="270" height="40" rx="6" fill="#161b22"/>
+  <text x="34" y="121" fill="#FB923C" font-family="monospace" font-size="12">🏛️ IIT Patna — NIRF #23</text>
+  <text x="34" y="135" fill="#8b949e" font-family="monospace" font-size="10">2023 batch, CSE</text>
+
+  <rect x="314" y="100" width="272" height="40" rx="6" fill="#161b22"/>
+  <text x="324" y="121" fill="#00FF88" font-family="monospace" font-size="12">🚀 67+ repos shipped</text>
+  <text x="324" y="135" fill="#8b949e" font-family="monospace" font-size="10">real products, not tutorials</text>
+
+  <rect x="606" y="100" width="270" height="40" rx="6" fill="#161b22"/>
+  <text x="616" y="121" fill="#00E5FF" font-family="monospace" font-size="12">🤖 Computer Vision + ML</text>
+  <text x="616" y="135" fill="#8b949e" font-family="monospace" font-size="10">OpenCV + PyTorch in action</text>
+
+  <!-- Row 3 -->
+  <rect x="24" y="148" width="270" height="40" rx="6" fill="#161b22"/>
+  <text x="34" y="169" fill="#FF6B6B" font-family="monospace" font-size="12">🔥 Never missed a day</text>
+  <text x="34" y="183" fill="#8b949e" font-family="monospace" font-size="10">coding since Aug 2023</text>
+
+  <rect x="314" y="148" width="272" height="40" rx="6" fill="#161b22"/>
+  <text x="324" y="169" fill="#C084FC" font-family="monospace" font-size="12">🌐 ishu.fun — LIVE ✅</text>
+  <text x="324" y="183" fill="#8b949e" font-family="monospace" font-size="10">built + deployed solo</text>
+
+  <rect x="606" y="148" width="270" height="40" rx="6" fill="#161b22"/>
+  <text x="616" y="169" fill="#FB923C" font-family="monospace" font-size="12">⚡ TypeScript 87% of repos</text>
+  <text x="616" y="183" fill="#8b949e" font-family="monospace" font-size="10">the one true language</text>
+
+  <!-- Animated blinking border on one card to highlight -->
+  <rect x="314" y="100" width="272" height="40" rx="6" fill="none" stroke="#00FF88" stroke-width="1">
+    <animate attributeName="stroke-opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
