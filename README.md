@@ -99,6 +99,14 @@ const ISHU_KUMAR = {
 } as const;
 ```
 
+<div align="center">
+<br/>
+
+<!-- Live code typing simulation — self-hosted SMIL, code appears char by char -->
+<img src="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/main/assets/typing-code.svg" width="100%" alt="Live TypeScript Code Typing"/>
+
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=0:000000,50:001008,100:000000&height=65&section=footer&animation=twinkling"/>
 
 ---
@@ -330,28 +338,8 @@ const ISHU_KUMAR = {
 
 <br/><br/>
 
-<table border="0" align="center" cellpadding="12">
-<tr>
-<td align="center" valign="middle" width="190">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=42&duration=99999&pause=99999&color=00FF88&center=true&vCenter=true&width=150&lines=IIT"/>
-<br/>
-<img src="https://img.shields.io/badge/PATNA-NIRF%20%2323-%23C084FC?style=for-the-badge&labelColor=0d1117"/>
-</td>
-<td align="left" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=17&duration=99999&pause=99999&color=00FF88&center=false&vCenter=true&width=560&lines=Indian+Institute+of+Technology+Patna"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Degree-B.Tech%20CSE-%2300FF88?style=flat-square&labelColor=0d1117"/>&nbsp;
-<img src="https://img.shields.io/badge/Batch-2023%20→%202027-%2300E5FF?style=flat-square&labelColor=0d1117"/>&nbsp;
-<img src="https://img.shields.io/badge/Roll-2312res305-%23C084FC?style=flat-square&labelColor=0d1117"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/NIRF-%2323%20in%20India-%23FB923C?style=flat-square&labelColor=0d1117"/>&nbsp;
-<img src="https://img.shields.io/badge/Est-2008-%238b949e?style=flat-square&labelColor=0d1117"/>&nbsp;
-<img src="https://img.shields.io/badge/Motto-विद्यार्थी%20लभते%20विद्याम्-%2300E5FF?style=flat-square&labelColor=0d1117"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Mail-ishu_2312res305@iitp.ac.in-%23C084FC?style=flat-square&labelColor=0d1117"/>
-</td>
-</tr>
-</table>
+<!-- IIT Patna animated badge — circular rotating ring, counter-rotating text, pulsing glow — self-hosted -->
+<img src="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/main/assets/iit-badge.svg" width="100%" alt="IIT Patna Badge"/>
 
 <br/>
 
