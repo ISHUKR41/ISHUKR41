@@ -46,6 +46,11 @@
 
 <br/><br/>
 
+<!-- Live git terminal — shows real commit log, build output — SMIL line-by-line reveal -->
+<img src="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/main/assets/coding-terminal.svg" width="100%" alt="Live Coding Terminal"/>
+
+<br/><br/>
+
 <!-- Live TypeScript code typing simulation — SMIL clip-path, code appears line by line -->
 <img src="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/main/assets/typing-code.svg" width="100%" alt="Live TypeScript Code Typing"/>
 
