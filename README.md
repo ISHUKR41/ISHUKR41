@@ -139,8 +139,8 @@ const ISHU_KUMAR = {
 
 <br/><br/>
 
-<!-- Streak — demolab is reliable -->
-<img src="https://streak-stats.demolab.com?user=ISHUKR41&theme=merko&hide_border=true&background=0d1117&ring=00FF88&fire=FB923C&currStreakLabel=00FF88&sideLabels=8b949e&dates=8b949e&currStreakNum=00FF88&sideNums=00E5FF&border_radius=10"/>
+<!-- Streak Card — self-hosted, NEVER fails, always animated -->
+<img src="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/main/assets/streak-card.svg" width="100%" alt="Contribution Streak"/>
 
 <br/><br/>
 
