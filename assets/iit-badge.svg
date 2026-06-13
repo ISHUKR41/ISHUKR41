@@ -1,4 +1,4 @@
-<svg width="900" height="240" viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="240" viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <linearGradient id="bgIIT" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#0a0e14"/>
@@ -44,7 +44,7 @@
   <g>
     <animateTransform attributeName="transform" type="rotate" from="0 140 120" to="-360 140 120" dur="40s" repeatCount="indefinite"/>
     <text font-family="'Courier New',monospace" font-size="9.5" fill="#C084FC" letter-spacing="3.5" font-weight="700">
-      <textPath href="#ringText" startOffset="0%">INDIAN INSTITUTE OF TECHNOLOGY PATNA ✦ </textPath>
+      <textPath href="#ringText" xlink:href="#ringText" startOffset="0%">INDIAN INSTITUTE OF TECHNOLOGY PATNA ✦ </textPath>
     </text>
   </g>
 
@@ -59,7 +59,7 @@
   <g>
     <animateTransform attributeName="transform" type="rotate" from="0 140 120" to="360 140 120" dur="35s" repeatCount="indefinite"/>
     <text font-family="monospace" font-size="8" fill="#8b949e" letter-spacing="2.2">
-      <textPath href="#ringText2" startOffset="0%">CSE · 2023 · 2024 · 2025 · 2026 · 2027 · </textPath>
+      <textPath href="#ringText2" xlink:href="#ringText2" startOffset="0%">CSE · 2023 · 2024 · 2025 · 2026 · 2027 · </textPath>
     </text>
   </g>
 
