@@ -152,8 +152,8 @@ const ISHU_KUMAR = {
 
 <br/><br/>
 
-<!-- Trophies — usually reliable -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ISHUKR41&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=6&row=2&column=4"/>
+<!-- Achievements — self-hosted, 8 animated badge cards, never fails -->
+<img src="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/main/assets/achievement-badges.svg" width="100%" alt="Achievement Badges"/>
 
 </div>
 
@@ -170,7 +170,8 @@ const ISHU_KUMAR = {
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ISHUKR41&bg_color=0d1117&color=00FF88&line=00E5FF&point=C084FC&area=true&hide_border=true&custom_title=Ishu%20Kumar%20—%20Daily%20Contribution%20Activity&area_color=00FF88&radius=8"/>
+<!-- Activity Graph — self-hosted animated area chart with SMIL reveal, never fails -->
+<img src="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/main/assets/activity-graph.svg" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
 
