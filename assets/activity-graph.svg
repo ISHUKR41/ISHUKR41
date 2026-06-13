@@ -1,122 +1,185 @@
-<svg width="900" height="210" viewBox="0 0 900 210" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="185" viewBox="0 0 900 185" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgAG" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="agBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#090d13"/>
     </linearGradient>
-    <linearGradient id="areaFill" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#00FF88" stop-opacity="0.35"/>
-      <stop offset="70%" stop-color="#00FF88" stop-opacity="0.08"/>
+    <linearGradient id="agArea" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00FF88" stop-opacity="0.4"/>
+      <stop offset="60%" stop-color="#00E5FF" stop-opacity="0.15"/>
       <stop offset="100%" stop-color="#00FF88" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="areaFill2" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    <linearGradient id="agLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF88"/>
+      <stop offset="50%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#C084FC"/>
     </linearGradient>
-    <filter id="gAG"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <filter id="gAG2"><feGaussianBlur stdDeviation="1.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <!-- Reveal clip — animates left to right -->
-    <clipPath id="revealAG">
-      <rect x="44" y="0" height="210" width="0">
-        <animate attributeName="width" from="0" to="812" dur="3.2s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <filter id="agGlow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="agReveal">
+      <rect x="60" y="10" width="0" height="130">
+        <animate attributeName="width" from="0" to="820" dur="2s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
       </rect>
     </clipPath>
   </defs>
-
-  <rect width="900" height="210" rx="12" fill="url(#bgAG)"/>
-  <rect x="0.5" y="0.5" width="899" height="209" rx="11.5" fill="none" stroke="#00FF88" stroke-width="1.2" stroke-opacity="0.3">
-    <animate attributeName="stroke-opacity" values="0.3;0.65;0.3" dur="4s" repeatCount="indefinite"/>
-  </rect>
-
+  <rect width="900" height="185" rx="14" fill="url(#agBg)"/>
+  <rect x="0.5" y="0.5" width="899" height="184" rx="13.5" fill="none" stroke="#30363d" stroke-width="1"/>
   <!-- Title -->
-  <text x="450" y="26" fill="#00FF88" font-family="'Courier New',monospace" font-size="12" font-weight="900" text-anchor="middle" letter-spacing="5" filter="url(#gAG2)">◈  CONTRIBUTION  ACTIVITY  GRAPH  ◈</text>
-  <rect x="20" y="34" width="860" height="1" fill="#00FF88" fill-opacity="0.1"/>
-
-  <!-- Y-axis labels -->
-  <text x="40" y="58"  fill="#8b949e" font-family="monospace" font-size="9" text-anchor="end">60</text>
-  <text x="40" y="88"  fill="#8b949e" font-family="monospace" font-size="9" text-anchor="end">45</text>
-  <text x="40" y="118" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="end">30</text>
-  <text x="40" y="148" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="end">15</text>
-  <text x="40" y="168" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="end">0</text>
-
-  <!-- Y-axis grid lines -->
-  <line x1="44" y1="55"  x2="856" y2="55"  stroke="#21262d" stroke-width="1"/>
-  <line x1="44" y1="85"  x2="856" y2="85"  stroke="#21262d" stroke-width="1"/>
-  <line x1="44" y1="115" x2="856" y2="115" stroke="#21262d" stroke-width="1"/>
-  <line x1="44" y1="145" x2="856" y2="145" stroke="#21262d" stroke-width="1"/>
-  <line x1="44" y1="165" x2="856" y2="165" stroke="#30363d" stroke-width="1"/>
-
-  <!-- X-axis baseline -->
-  <line x1="44" y1="165" x2="856" y2="165" stroke="#30363d" stroke-width="1.5"/>
-
-  <!--
-    Data: 11 months, Aug 2025 to Jun 2026
-    Commits: 45, 38, 52, 30, 25, 48, 55, 42, 38, 61, 20
-    Max=61, chart height (55→165)=110px
-    y = 165 - (commits/61)*110
-    X range: 44 to 856, 11 points, spacing=81.2
-
-    x0=44,  y0=165-81  =84   (Aug: 45)
-    x1=125, y1=165-68.5=96.5 (Sep: 38)
-    x2=206, y2=165-93.7=71.3 (Oct: 52)
-    x3=287, y3=165-54  =111  (Nov: 30)
-    x4=368, y4=165-45  =120  (Dec: 25)
-    x5=449, y5=165-86.5=78.5 (Jan: 48)
-    x6=530, y6=165-99  =66   (Feb: 55)
-    x7=611, y7=165-75.7=89.3 (Mar: 42)
-    x8=692, y8=165-68.5=96.5 (Apr: 38)
-    x9=773, y9=165-110 =55   (May: 61)
-    x10=856,y10=165-36 =129  (Jun: 20 partial)
-  -->
-
-  <!-- Area fill (clipped reveal) -->
-  <path clip-path="url(#revealAG)"
-    d="M 44,165 L 44,84 C 65,84 104,96.5 125,96.5 C 146,96.5 185,71.3 206,71.3 C 227,71.3 266,111 287,111 C 308,111 347,120 368,120 C 389,120 428,78.5 449,78.5 C 470,78.5 509,66 530,66 C 551,66 590,89.3 611,89.3 C 632,89.3 671,96.5 692,96.5 C 713,96.5 752,55 773,55 C 794,55 835,129 856,129 L 856,165 Z"
-    fill="url(#areaFill)"/>
-
-  <!-- Glow line (clipped reveal) -->
-  <path clip-path="url(#revealAG)"
-    d="M 44,84 C 65,84 104,96.5 125,96.5 C 146,96.5 185,71.3 206,71.3 C 227,71.3 266,111 287,111 C 308,111 347,120 368,120 C 389,120 428,78.5 449,78.5 C 470,78.5 509,66 530,66 C 551,66 590,89.3 611,89.3 C 632,89.3 671,96.5 692,96.5 C 713,96.5 752,55 773,55 C 794,55 835,129 856,129"
-    fill="none" stroke="#00FF88" stroke-width="3.5" stroke-linejoin="round" filter="url(#gAG)"/>
-
-  <!-- Crisp line on top -->
-  <path clip-path="url(#revealAG)"
-    d="M 44,84 C 65,84 104,96.5 125,96.5 C 146,96.5 185,71.3 206,71.3 C 227,71.3 266,111 287,111 C 308,111 347,120 368,120 C 389,120 428,78.5 449,78.5 C 470,78.5 509,66 530,66 C 551,66 590,89.3 611,89.3 C 632,89.3 671,96.5 692,96.5 C 713,96.5 752,55 773,55 C 794,55 835,129 856,129"
-    fill="none" stroke="#00FF88" stroke-width="1.5" stroke-linejoin="round"/>
-
-  <!-- Data point dots (appear after reveal, pulsing) -->
-  <circle cx="44"  cy="84"   r="4" fill="#00FF88" filter="url(#gAG2)"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.8s" fill="freeze"/></circle>
-  <circle cx="125" cy="96.5" r="4" fill="#00FF88" filter="url(#gAG2)"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.2s" fill="freeze"/></circle>
-  <circle cx="206" cy="71.3" r="5" fill="#00E5FF" filter="url(#gAG)"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.7s" fill="freeze"/></circle>
-  <circle cx="287" cy="111"  r="4" fill="#00FF88" filter="url(#gAG2)"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.1s" fill="freeze"/></circle>
-  <circle cx="368" cy="120"  r="4" fill="#00FF88" filter="url(#gAG2)"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.4s" fill="freeze"/></circle>
-  <circle cx="449" cy="78.5" r="4" fill="#00FF88" filter="url(#gAG2)"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.8s" fill="freeze"/></circle>
-  <circle cx="530" cy="66"   r="5" fill="#00E5FF" filter="url(#gAG)"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.1s" fill="freeze"/></circle>
-  <circle cx="611" cy="89.3" r="4" fill="#00FF88" filter="url(#gAG2)"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.4s" fill="freeze"/></circle>
-  <circle cx="692" cy="96.5" r="4" fill="#00FF88" filter="url(#gAG2)"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.7s" fill="freeze"/></circle>
-  <!-- PEAK: May 61 commits — special highlight -->
-  <circle cx="773" cy="55"   r="7" fill="#FB923C" filter="url(#gAG)">
-    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.9s" fill="freeze"/>
-    <animate attributeName="r" values="7;10;7" dur="2s" begin="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="856" cy="129"  r="4" fill="#00FF88" filter="url(#gAG2)"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.6s" fill="freeze"/></circle>
-
-  <!-- Peak label -->
-  <text x="773" y="48" fill="#FB923C" font-family="monospace" font-size="9" text-anchor="middle" font-weight="700">
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="4.2s" fill="freeze"/>
-    PEAK 61
-  </text>
-
-  <!-- X-axis month labels -->
-  <text x="44"  y="179" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Aug</text>
-  <text x="125" y="179" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Sep</text>
-  <text x="206" y="179" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Oct</text>
-  <text x="287" y="179" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Nov</text>
-  <text x="368" y="179" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Dec</text>
-  <text x="449" y="179" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Jan</text>
-  <text x="530" y="179" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Feb</text>
-  <text x="611" y="179" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Mar</text>
-  <text x="692" y="179" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Apr</text>
-  <text x="773" y="179" fill="#FB923C" font-family="monospace" font-size="9" text-anchor="middle" font-weight="700">May</text>
-  <text x="856" y="179" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Jun</text>
-  <text x="449" y="197" fill="#8b949e" font-family="monospace" font-size="8" text-anchor="middle" letter-spacing="2">Aug 2025  →  Jun 2026  ·  400+ Total Commits  ·  Building Daily ⚡</text>
-</svg>
+  <text x="450" y="14" fill="#8b949e" font-family="monospace" font-size="9.5" text-anchor="middle" letter-spacing="3">◈  MONTHLY CONTRIBUTION ACTIVITY  —  Jun 2025 → May 2026  ◈</text>
+  <!-- Grid -->
+  <line x1="60" y1="20" x2="880" y2="20" stroke="#21262d" stroke-width="0.6" stroke-opacity="0.3"/><text x="52" y="24" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="end">52</text><line x1="60" y1="47.5" x2="880" y2="47.5" stroke="#21262d" stroke-width="0.6" stroke-opacity="0.3"/><text x="52" y="51.5" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="end">39</text><line x1="60" y1="75" x2="880" y2="75" stroke="#21262d" stroke-width="0.6" stroke-opacity="0.3"/><text x="52" y="79" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="end">26</text><line x1="60" y1="102.5" x2="880" y2="102.5" stroke="#21262d" stroke-width="0.6" stroke-opacity="0.3"/><text x="52" y="106.5" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="end">13</text><line x1="60" y1="130" x2="880" y2="130" stroke="#21262d" stroke-width="1" stroke-opacity="0.6"/><text x="52" y="134" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="end">0</text>
+  <!-- Area + line (revealed left-to-right) -->
+  <g clip-path="url(#agReveal)">
+    <path d="M 60,113.07692307692308 C 72.42424242424242,111.66666666666667 109.69696969696972,111.66666666666666 134.54545454545456,104.61538461538461 C 159.3939393939394,97.56410256410257 184.24242424242425,78.87820512820514 209.0909090909091,70.76923076923077 C 233.93939393939394,62.660256410256416 258.78787878787875,53.84615384615384 283.6363636363636,55.96153846153845 C 308.4848484848485,58.076923076923066 333.3333333333333,77.4679487179487 358.1818181818182,83.46153846153845 C 383.03030303030306,89.4551282051282 407.8787878787879,98.97435897435898 432.72727272727275,91.92307692307693 C 457.5757575757576,84.87179487179489 482.4242424242424,48.2051282051282 507.27272727272725,41.153846153846146 C 532.1212121212121,34.102564102564095 556.969696969697,43.62179487179487 581.8181818181819,49.61538461538461 C 606.6666666666667,55.60897435897436 631.5151515151515,74.2948717948718 656.3636363636364,77.11538461538461 C 681.2121212121212,79.93589743589743 706.060606060606,73.58974358974359 730.9090909090909,66.53846153846155 C 755.7575757575758,59.487179487179496 780.6060606060606,42.56410256410256 805.4545454545455,34.80769230769231 C 830.3030303030304,27.051282051282048 867.5757575757576,22.46794871794872 880,20 L 880,130 L 60,130 Z" fill="url(#agArea)"/>
+    <path d="M 60,113.07692307692308 C 72.42424242424242,111.66666666666667 109.69696969696972,111.66666666666666 134.54545454545456,104.61538461538461 C 159.3939393939394,97.56410256410257 184.24242424242425,78.87820512820514 209.0909090909091,70.76923076923077 C 233.93939393939394,62.660256410256416 258.78787878787875,53.84615384615384 283.6363636363636,55.96153846153845 C 308.4848484848485,58.076923076923066 333.3333333333333,77.4679487179487 358.1818181818182,83.46153846153845 C 383.03030303030306,89.4551282051282 407.8787878787879,98.97435897435898 432.72727272727275,91.92307692307693 C 457.5757575757576,84.87179487179489 482.4242424242424,48.2051282051282 507.27272727272725,41.153846153846146 C 532.1212121212121,34.102564102564095 556.969696969697,43.62179487179487 581.8181818181819,49.61538461538461 C 606.6666666666667,55.60897435897436 631.5151515151515,74.2948717948718 656.3636363636364,77.11538461538461 C 681.2121212121212,79.93589743589743 706.060606060606,73.58974358974359 730.9090909090909,66.53846153846155 C 755.7575757575758,59.487179487179496 780.6060606060606,42.56410256410256 805.4545454545455,34.80769230769231 C 830.3030303030304,27.051282051282048 867.5757575757576,22.46794871794872 880,20" fill="none" stroke="url(#agLine)" stroke-width="2.5" filter="url(#agGlow)"/>
+  </g>
+  <!-- Animated dots + values -->
+  
+    <circle cx="60" cy="113.07692307692308" r="0" fill="#00FF88">
+      <animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.80s" fill="freeze"/>
+      <animate attributeName="r" values="5;7;5" dur="2s" begin="1.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="60" cy="113.07692307692308" r="0" fill="#00FF88" opacity="0.3">
+      <animate attributeName="r" from="0" to="10" dur="0.3s" begin="0.80s" fill="freeze"/>
+      <animate attributeName="r" values="10;14;10" dur="2s" begin="1.1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="60" y="99.07692307692308" fill="#00FF88" font-family="monospace" font-size="9" text-anchor="middle" opacity="0" font-weight="700">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.80s" fill="freeze"/>
+      8
+    </text>
+    <circle cx="134.54545454545456" cy="104.61538461538461" r="0" fill="#00FF88">
+      <animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.92s" fill="freeze"/>
+      <animate attributeName="r" values="5;7;5" dur="2s" begin="1.22s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="134.54545454545456" cy="104.61538461538461" r="0" fill="#00FF88" opacity="0.3">
+      <animate attributeName="r" from="0" to="10" dur="0.3s" begin="0.92s" fill="freeze"/>
+      <animate attributeName="r" values="10;14;10" dur="2s" begin="1.22s" repeatCount="indefinite"/>
+    </circle>
+    <text x="134.54545454545456" y="90.61538461538461" fill="#00FF88" font-family="monospace" font-size="9" text-anchor="middle" opacity="0" font-weight="700">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.92s" fill="freeze"/>
+      12
+    </text>
+    <circle cx="209.0909090909091" cy="70.76923076923077" r="0" fill="#00FF88">
+      <animate attributeName="r" from="0" to="5" dur="0.3s" begin="1.04s" fill="freeze"/>
+      <animate attributeName="r" values="5;7;5" dur="2s" begin="1.34s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="209.0909090909091" cy="70.76923076923077" r="0" fill="#00FF88" opacity="0.3">
+      <animate attributeName="r" from="0" to="10" dur="0.3s" begin="1.04s" fill="freeze"/>
+      <animate attributeName="r" values="10;14;10" dur="2s" begin="1.34s" repeatCount="indefinite"/>
+    </circle>
+    <text x="209.0909090909091" y="56.769230769230774" fill="#00FF88" font-family="monospace" font-size="9" text-anchor="middle" opacity="0" font-weight="700">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.04s" fill="freeze"/>
+      28
+    </text>
+    <circle cx="283.6363636363636" cy="55.96153846153845" r="0" fill="#00FF88">
+      <animate attributeName="r" from="0" to="5" dur="0.3s" begin="1.16s" fill="freeze"/>
+      <animate attributeName="r" values="5;7;5" dur="2s" begin="1.46s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="283.6363636363636" cy="55.96153846153845" r="0" fill="#00FF88" opacity="0.3">
+      <animate attributeName="r" from="0" to="10" dur="0.3s" begin="1.16s" fill="freeze"/>
+      <animate attributeName="r" values="10;14;10" dur="2s" begin="1.46s" repeatCount="indefinite"/>
+    </circle>
+    <text x="283.6363636363636" y="41.96153846153845" fill="#00FF88" font-family="monospace" font-size="9" text-anchor="middle" opacity="0" font-weight="700">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.16s" fill="freeze"/>
+      35
+    </text>
+    <circle cx="358.1818181818182" cy="83.46153846153845" r="0" fill="#00FF88">
+      <animate attributeName="r" from="0" to="5" dur="0.3s" begin="1.28s" fill="freeze"/>
+      <animate attributeName="r" values="5;7;5" dur="2s" begin="1.58s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="358.1818181818182" cy="83.46153846153845" r="0" fill="#00FF88" opacity="0.3">
+      <animate attributeName="r" from="0" to="10" dur="0.3s" begin="1.28s" fill="freeze"/>
+      <animate attributeName="r" values="10;14;10" dur="2s" begin="1.58s" repeatCount="indefinite"/>
+    </circle>
+    <text x="358.1818181818182" y="69.46153846153845" fill="#00FF88" font-family="monospace" font-size="9" text-anchor="middle" opacity="0" font-weight="700">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.28s" fill="freeze"/>
+      22
+    </text>
+    <circle cx="432.72727272727275" cy="91.92307692307693" r="0" fill="#00FF88">
+      <animate attributeName="r" from="0" to="5" dur="0.3s" begin="1.40s" fill="freeze"/>
+      <animate attributeName="r" values="5;7;5" dur="2s" begin="1.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="432.72727272727275" cy="91.92307692307693" r="0" fill="#00FF88" opacity="0.3">
+      <animate attributeName="r" from="0" to="10" dur="0.3s" begin="1.40s" fill="freeze"/>
+      <animate attributeName="r" values="10;14;10" dur="2s" begin="1.7s" repeatCount="indefinite"/>
+    </circle>
+    <text x="432.72727272727275" y="77.92307692307693" fill="#00FF88" font-family="monospace" font-size="9" text-anchor="middle" opacity="0" font-weight="700">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.40s" fill="freeze"/>
+      18
+    </text>
+    <circle cx="507.27272727272725" cy="41.153846153846146" r="0" fill="#00FF88">
+      <animate attributeName="r" from="0" to="5" dur="0.3s" begin="1.52s" fill="freeze"/>
+      <animate attributeName="r" values="5;7;5" dur="2s" begin="1.82s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="507.27272727272725" cy="41.153846153846146" r="0" fill="#00FF88" opacity="0.3">
+      <animate attributeName="r" from="0" to="10" dur="0.3s" begin="1.52s" fill="freeze"/>
+      <animate attributeName="r" values="10;14;10" dur="2s" begin="1.82s" repeatCount="indefinite"/>
+    </circle>
+    <text x="507.27272727272725" y="27.153846153846146" fill="#00FF88" font-family="monospace" font-size="9" text-anchor="middle" opacity="0" font-weight="700">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.52s" fill="freeze"/>
+      42
+    </text>
+    <circle cx="581.8181818181819" cy="49.61538461538461" r="0" fill="#00FF88">
+      <animate attributeName="r" from="0" to="5" dur="0.3s" begin="1.64s" fill="freeze"/>
+      <animate attributeName="r" values="5;7;5" dur="2s" begin="1.94s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="581.8181818181819" cy="49.61538461538461" r="0" fill="#00FF88" opacity="0.3">
+      <animate attributeName="r" from="0" to="10" dur="0.3s" begin="1.64s" fill="freeze"/>
+      <animate attributeName="r" values="10;14;10" dur="2s" begin="1.94s" repeatCount="indefinite"/>
+    </circle>
+    <text x="581.8181818181819" y="35.61538461538461" fill="#00FF88" font-family="monospace" font-size="9" text-anchor="middle" opacity="0" font-weight="700">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.64s" fill="freeze"/>
+      38
+    </text>
+    <circle cx="656.3636363636364" cy="77.11538461538461" r="0" fill="#00FF88">
+      <animate attributeName="r" from="0" to="5" dur="0.3s" begin="1.76s" fill="freeze"/>
+      <animate attributeName="r" values="5;7;5" dur="2s" begin="2.06s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="656.3636363636364" cy="77.11538461538461" r="0" fill="#00FF88" opacity="0.3">
+      <animate attributeName="r" from="0" to="10" dur="0.3s" begin="1.76s" fill="freeze"/>
+      <animate attributeName="r" values="10;14;10" dur="2s" begin="2.06s" repeatCount="indefinite"/>
+    </circle>
+    <text x="656.3636363636364" y="63.11538461538461" fill="#00FF88" font-family="monospace" font-size="9" text-anchor="middle" opacity="0" font-weight="700">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.76s" fill="freeze"/>
+      25
+    </text>
+    <circle cx="730.9090909090909" cy="66.53846153846155" r="0" fill="#00FF88">
+      <animate attributeName="r" from="0" to="5" dur="0.3s" begin="1.88s" fill="freeze"/>
+      <animate attributeName="r" values="5;7;5" dur="2s" begin="2.1799999999999997s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="730.9090909090909" cy="66.53846153846155" r="0" fill="#00FF88" opacity="0.3">
+      <animate attributeName="r" from="0" to="10" dur="0.3s" begin="1.88s" fill="freeze"/>
+      <animate attributeName="r" values="10;14;10" dur="2s" begin="2.1799999999999997s" repeatCount="indefinite"/>
+    </circle>
+    <text x="730.9090909090909" y="52.53846153846155" fill="#00FF88" font-family="monospace" font-size="9" text-anchor="middle" opacity="0" font-weight="700">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.88s" fill="freeze"/>
+      30
+    </text>
+    <circle cx="805.4545454545455" cy="34.80769230769231" r="0" fill="#00FF88">
+      <animate attributeName="r" from="0" to="5" dur="0.3s" begin="2.00s" fill="freeze"/>
+      <animate attributeName="r" values="5;7;5" dur="2s" begin="2.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="805.4545454545455" cy="34.80769230769231" r="0" fill="#00FF88" opacity="0.3">
+      <animate attributeName="r" from="0" to="10" dur="0.3s" begin="2.00s" fill="freeze"/>
+      <animate attributeName="r" values="10;14;10" dur="2s" begin="2.3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="805.4545454545455" y="20.807692307692307" fill="#00FF88" font-family="monospace" font-size="9" text-anchor="middle" opacity="0" font-weight="700">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.00s" fill="freeze"/>
+      45
+    </text>
+    <circle cx="880" cy="20" r="0" fill="#00FF88">
+      <animate attributeName="r" from="0" to="5" dur="0.3s" begin="2.12s" fill="freeze"/>
+      <animate attributeName="r" values="5;7;5" dur="2s" begin="2.42s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="20" r="0" fill="#00FF88" opacity="0.3">
+      <animate attributeName="r" from="0" to="10" dur="0.3s" begin="2.12s" fill="freeze"/>
+      <animate attributeName="r" values="10;14;10" dur="2s" begin="2.42s" repeatCount="indefinite"/>
+    </circle>
+    <text x="880" y="6" fill="#00FF88" font-family="monospace" font-size="9" text-anchor="middle" opacity="0" font-weight="700">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.12s" fill="freeze"/>
+      52
+    </text>
+  <!-- Month labels -->
+  <text x="60" y="148" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Jun</text><text x="134.54545454545456" y="148" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Jul</text><text x="209.0909090909091" y="148" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Aug</text><text x="283.6363636363636" y="148" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Sep</text><text x="358.1818181818182" y="148" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Oct</text><text x="432.72727272727275" y="148" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Nov</text><text x="507.27272727272725" y="148" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Dec</text><text x="581.8181818181819" y="148" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Jan</text><text x="656.3636363636364" y="148" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Feb</text><text x="730.9090909090909" y="148" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Mar</text><text x="805.4545454545455" y="148" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">Apr</text><text x="880" y="148" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle">May</text>
+  <!-- Axis -->
+  <line x1="60" y1="20" x2="60" y2="130" stroke="#30363d" stroke-width="1"/>
+  <line x1="60" y1="130" x2="880" y2="130" stroke="#30363d" stroke-width="1"/>
+  </svg>
