@@ -1,78 +1,92 @@
-<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgS" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#0a1410"/>
+    <linearGradient id="gsBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#090d13"/>
     </linearGradient>
-    <filter id="gS"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <filter id="gS2"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="gsG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF88"/><stop offset="100%" stop-color="#00E5FF"/>
+    </linearGradient>
+    <linearGradient id="gsP" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C084FC"/><stop offset="100%" stop-color="#FB923C"/>
+    </linearGradient>
+    <filter id="gsGlow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="gsSoft"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-
-  <rect width="900" height="220" rx="12" fill="url(#bgS)"/>
-  <rect x="0.5" y="0.5" width="899" height="219" rx="11.5" fill="none" stroke="#00FF88" stroke-width="1" stroke-opacity="0.3">
-    <animate attributeName="stroke-opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite"/>
-  </rect>
+  <rect width="900" height="200" rx="14" fill="url(#gsBg)"/>
+  <rect x="0.5" y="0.5" width="899" height="199" rx="13.5" fill="none" stroke="#30363d" stroke-width="1"/>
 
   <!-- Title -->
-  <text x="450" y="28" fill="#00FF88" font-family="'Courier New',monospace" font-size="13" font-weight="900" text-anchor="middle" letter-spacing="5" filter="url(#gS)">◈  ISHU  KUMAR  ·  GITHUB  STATS  ◈</text>
-  <rect x="20" y="38" width="860" height="1" fill="#00FF88" fill-opacity="0.12"/>
+  <text x="450" y="24" fill="#8b949e" font-family="monospace" font-size="10" text-anchor="middle" letter-spacing="4">◈  GITHUB  STATISTICS  ◈</text>
+  <line x1="60" y1="32" x2="840" y2="32" stroke="#21262d" stroke-width="1"/>
 
-  <!-- ── BLOCK 1: REPOS ── x=18 w=200 GREEN -->
-  <rect x="18" y="50" width="200" height="130" rx="8" fill="#0d1117" stroke="#00FF88" stroke-width="1" stroke-opacity="0.2"/>
-  <rect x="18" y="50" width="200" height="130" rx="8" fill="none" stroke="#00FF88" stroke-width="1.5">
-    <animate attributeName="stroke-opacity" values="0.2;0.7;0.2" dur="2.8s" repeatCount="indefinite"/>
+  <!-- 5 animated stat cards -->
+  <!-- CARD 1: Total Stars -->
+  <rect x="18" y="44" width="158" height="140" rx="10" fill="#0d1117" stroke="#00FF88" stroke-width="1.2" stroke-opacity="0.3">
+    <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite"/>
   </rect>
-  <rect x="18" y="50" width="4" height="130" rx="2" fill="#00FF88"/>
-  <text x="26" y="82" fill="#00FF88" font-family="monospace" font-size="9" letter-spacing="2">📦 REPOSITORIES</text>
-  <text x="118" y="136" fill="#00FF88" font-family="'Courier New',monospace" font-size="46" font-weight="900" text-anchor="middle" filter="url(#gS)">67<tspan font-size="22">+</tspan></text>
-  <rect x="32" y="152" width="170" height="5" rx="2" fill="#161b22"/>
-  <rect x="32" y="152" width="0" height="5" rx="2" fill="#00FF88" filter="url(#gS2)">
-    <animate attributeName="width" from="0" to="170" dur="2s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  <rect x="18" y="44" width="158" height="4" rx="2" fill="url(#gsG)"/>
+  <text x="97" y="90" fill="#00FF88" font-family="'Courier New',monospace" font-size="36" font-weight="900" text-anchor="middle" filter="url(#gsGlow)">★</text>
+  <text x="97" y="120" fill="#00FF88" font-family="'Courier New',monospace" font-size="28" font-weight="900" text-anchor="middle" filter="url(#gsGlow)">124</text>
+  <text x="97" y="138" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle" letter-spacing="1.5">TOTAL STARS</text>
+  <text x="97" y="166" fill="#30363d" font-family="monospace" font-size="9" text-anchor="middle">★★★★☆</text>
+  <rect x="18" y="181" width="158" height="3" rx="1.5" fill="#21262d"/>
+  <rect x="18" y="181" width="124" height="3" rx="1.5" fill="#00FF88">
+    <animate attributeName="width" from="0" to="124" dur="1.5s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
   </rect>
-  <text x="118" y="175" fill="#8b949e" font-family="monospace" font-size="10" text-anchor="middle">public repos · all TypeScript</text>
 
-  <!-- ── BLOCK 2: COMMITS ── x=238 w=200 CYAN -->
-  <rect x="238" y="50" width="200" height="130" rx="8" fill="#0d1117" stroke="#00E5FF" stroke-width="1" stroke-opacity="0.2"/>
-  <rect x="238" y="50" width="200" height="130" rx="8" fill="none" stroke="#00E5FF" stroke-width="1.5">
-    <animate attributeName="stroke-opacity" values="0.2;0.7;0.2" dur="3.2s" begin="0.4s" repeatCount="indefinite"/>
+  <!-- CARD 2: Commits -->
+  <rect x="188" y="44" width="158" height="140" rx="10" fill="#0d1117" stroke="#00E5FF" stroke-width="1.2" stroke-opacity="0.3">
+    <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="3.4s" begin="0.5s" repeatCount="indefinite"/>
   </rect>
-  <rect x="238" y="50" width="4" height="130" rx="2" fill="#00E5FF"/>
-  <text x="246" y="82" fill="#00E5FF" font-family="monospace" font-size="9" letter-spacing="2">🔨 TOTAL COMMITS</text>
-  <text x="338" y="136" fill="#00E5FF" font-family="'Courier New',monospace" font-size="38" font-weight="900" text-anchor="middle" filter="url(#gS)">400<tspan font-size="22">+</tspan></text>
-  <rect x="252" y="152" width="170" height="5" rx="2" fill="#161b22"/>
-  <rect x="252" y="152" width="0" height="5" rx="2" fill="#00E5FF" filter="url(#gS2)">
-    <animate attributeName="width" from="0" to="170" dur="2s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  <rect x="188" y="44" width="158" height="4" rx="2" fill="#00E5FF"/>
+  <text x="267" y="88" fill="#00E5FF" font-family="'Courier New',monospace" font-size="30" font-weight="900" text-anchor="middle" filter="url(#gsGlow)">⚡</text>
+  <text x="267" y="118" fill="#00E5FF" font-family="'Courier New',monospace" font-size="26" font-weight="900" text-anchor="middle" filter="url(#gsGlow)">400+</text>
+  <text x="267" y="138" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle" letter-spacing="1.5">TOTAL COMMITS</text>
+  <text x="267" y="158" fill="#8b949e" font-family="monospace" font-size="8" text-anchor="middle">2023 → 2026</text>
+  <rect x="188" y="181" width="158" height="3" rx="1.5" fill="#21262d"/>
+  <rect x="188" y="181" width="110" height="3" rx="1.5" fill="#00E5FF">
+    <animate attributeName="width" from="0" to="110" dur="1.5s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
   </rect>
-  <text x="338" y="175" fill="#8b949e" font-family="monospace" font-size="10" text-anchor="middle">since August 2023 🔥</text>
 
-  <!-- ── BLOCK 3: TYPESCRIPT ── x=458 w=200 PURPLE -->
-  <rect x="458" y="50" width="200" height="130" rx="8" fill="#0d1117" stroke="#C084FC" stroke-width="1" stroke-opacity="0.2"/>
-  <rect x="458" y="50" width="200" height="130" rx="8" fill="none" stroke="#C084FC" stroke-width="1.5">
-    <animate attributeName="stroke-opacity" values="0.2;0.7;0.2" dur="2.5s" begin="0.8s" repeatCount="indefinite"/>
+  <!-- CARD 3: Repos -->
+  <rect x="358" y="44" width="184" height="140" rx="10" fill="#0d1117" stroke="#C084FC" stroke-width="1.5" stroke-opacity="0.4">
+    <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2.8s" begin="0.3s" repeatCount="indefinite"/>
   </rect>
-  <rect x="458" y="50" width="4" height="130" rx="2" fill="#C084FC"/>
-  <text x="466" y="82" fill="#C084FC" font-family="monospace" font-size="9" letter-spacing="2">⭐ TYPESCRIPT USAGE</text>
-  <text x="558" y="136" fill="#C084FC" font-family="'Courier New',monospace" font-size="46" font-weight="900" text-anchor="middle" filter="url(#gS)">87<tspan font-size="22">%</tspan></text>
-  <rect x="472" y="152" width="170" height="5" rx="2" fill="#161b22"/>
-  <rect x="472" y="152" width="0" height="5" rx="2" fill="#C084FC">
-    <animate attributeName="width" from="0" to="148" dur="2s" begin="0.7s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  <rect x="358" y="44" width="184" height="5" rx="2.5" fill="url(#gsP)"/>
+  <text x="450" y="88" fill="#C084FC" font-family="'Courier New',monospace" font-size="28" font-weight="900" text-anchor="middle" filter="url(#gsSoft)">📦</text>
+  <text x="450" y="118" fill="#C084FC" font-family="'Courier New',monospace" font-size="30" font-weight="900" text-anchor="middle" filter="url(#gsGlow)">67+</text>
+  <text x="450" y="138" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle" letter-spacing="2">REPOSITORIES</text>
+  <text x="450" y="158" fill="#8b949e" font-family="monospace" font-size="8" text-anchor="middle">public + private</text>
+  <rect x="358" y="181" width="184" height="4" rx="2" fill="#21262d"/>
+  <rect x="358" y="181" width="136" height="4" rx="2" fill="url(#gsP)">
+    <animate attributeName="width" from="0" to="136" dur="1.5s" begin="0.8s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
   </rect>
-  <text x="558" y="175" fill="#8b949e" font-family="monospace" font-size="10" text-anchor="middle">of all 67 repos · #1 language</text>
 
-  <!-- ── BLOCK 4: DAYS ── x=678 w=200 ORANGE -->
-  <rect x="678" y="50" width="200" height="130" rx="8" fill="#0d1117" stroke="#FB923C" stroke-width="1" stroke-opacity="0.2"/>
-  <rect x="678" y="50" width="200" height="130" rx="8" fill="none" stroke="#FB923C" stroke-width="1.5">
-    <animate attributeName="stroke-opacity" values="0.2;0.7;0.2" dur="3.6s" begin="1.2s" repeatCount="indefinite"/>
+  <!-- CARD 4: TypeScript -->
+  <rect x="554" y="44" width="158" height="140" rx="10" fill="#0d1117" stroke="#FB923C" stroke-width="1.2" stroke-opacity="0.3">
+    <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="3.7s" begin="0.7s" repeatCount="indefinite"/>
   </rect>
-  <rect x="678" y="50" width="4" height="130" rx="2" fill="#FB923C"/>
-  <text x="686" y="82" fill="#FB923C" font-family="monospace" font-size="9" letter-spacing="2">🔥 DAYS CODING</text>
-  <text x="778" y="132" fill="#FB923C" font-family="'Courier New',monospace" font-size="38" font-weight="900" text-anchor="middle" filter="url(#gS)">1000<tspan font-size="20">+</tspan></text>
-  <rect x="692" y="152" width="170" height="5" rx="2" fill="#161b22"/>
-  <rect x="692" y="152" width="0" height="5" rx="2" fill="#FB923C">
-    <animate attributeName="width" from="0" to="170" dur="2s" begin="0.9s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  <rect x="554" y="44" width="158" height="4" rx="2" fill="#FB923C"/>
+  <text x="633" y="90" fill="#FB923C" font-family="'Courier New',monospace" font-size="30" font-weight="900" text-anchor="middle" filter="url(#gsGlow)">TS</text>
+  <text x="633" y="120" fill="#FB923C" font-family="'Courier New',monospace" font-size="26" font-weight="900" text-anchor="middle" filter="url(#gsGlow)">87%</text>
+  <text x="633" y="138" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle" letter-spacing="1.5">TYPESCRIPT</text>
+  <text x="633" y="158" fill="#8b949e" font-family="monospace" font-size="8" text-anchor="middle">top language</text>
+  <rect x="554" y="181" width="158" height="3" rx="1.5" fill="#21262d"/>
+  <rect x="554" y="181" width="137" height="3" rx="1.5" fill="#FB923C">
+    <animate attributeName="width" from="0" to="137" dur="1.5s" begin="1s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
   </rect>
-  <text x="778" y="175" fill="#8b949e" font-family="monospace" font-size="10" text-anchor="middle">coding since Aug 2023 ⚡</text>
 
-  <!-- Bottom -->
-  <rect x="20" y="196" width="860" height="1" fill="#00FF88" fill-opacity="0.1"/>
-  <text x="450" y="212" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle" letter-spacing="3">ISHU  KUMAR  ·  @ISHUKR41  ·  IIT  PATNA  CSE  2027</text>
-</svg>
+  <!-- CARD 5: PRs -->
+  <rect x="724" y="44" width="158" height="140" rx="10" fill="#0d1117" stroke="#7EE787" stroke-width="1.2" stroke-opacity="0.3">
+    <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="4.1s" begin="1s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="724" y="44" width="158" height="4" rx="2" fill="#7EE787"/>
+  <text x="803" y="88" fill="#7EE787" font-family="'Courier New',monospace" font-size="28" font-weight="900" text-anchor="middle" filter="url(#gsGlow)">🔀</text>
+  <text x="803" y="118" fill="#7EE787" font-family="'Courier New',monospace" font-size="26" font-weight="900" text-anchor="middle" filter="url(#gsGlow)">48+</text>
+  <text x="803" y="138" fill="#8b949e" font-family="monospace" font-size="9" text-anchor="middle" letter-spacing="2">PULL REQUESTS</text>
+  <text x="803" y="158" fill="#8b949e" font-family="monospace" font-size="8" text-anchor="middle">merged + open</text>
+  <rect x="724" y="181" width="158" height="3" rx="1.5" fill="#21262d"/>
+  <rect x="724" y="181" width="95" height="3" rx="1.5" fill="#7EE787">
+    <animate attributeName="width" from="0" to="95" dur="1.5s" begin="1.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  </svg>
