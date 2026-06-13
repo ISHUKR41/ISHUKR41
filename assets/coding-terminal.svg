@@ -1,0 +1,123 @@
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#080c11"/>
+    </linearGradient>
+    <filter id="termGlow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="900" height="320" rx="14" fill="url(#termBg)"/>
+  <rect x="0.5" y="0.5" width="899" height="319" rx="13.5" fill="none" stroke="#30363d" stroke-width="1.2"/>
+  <!-- Title bar -->
+  <rect x="0" y="0" width="900" height="32" rx="14" fill="#161b22"/>
+  <rect x="0" y="18" width="900" height="14" fill="#161b22"/>
+  <!-- Traffic lights -->
+  <circle cx="22" cy="16" r="6" fill="#FF5F57"><animate attributeName="opacity" values="1;0.7;1" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="42" cy="16" r="6" fill="#FFBD2E"><animate attributeName="opacity" values="0.7;1;0.7" dur="4s" begin="1s" repeatCount="indefinite"/></circle>
+  <circle cx="62" cy="16" r="6" fill="#28C840"><animate attributeName="opacity" values="1;0.7;1" dur="4s" begin="2s" repeatCount="indefinite"/></circle>
+  <!-- Title -->
+  <text x="450" y="21" fill="#8b949e" font-family="'Courier New',monospace" font-size="11" text-anchor="middle" letter-spacing="1">ishu@iit-patna — bash — 900×20</text>
+  <!-- Separator -->
+  <line x1="0" y1="32" x2="900" y2="32" stroke="#30363d" stroke-width="1"/>
+  <!-- Terminal lines -->
+  
+    <text x="22" y="28" fill="#00FF88" font-family="'Courier New',Courier,monospace" font-size="11.5" opacity="0" letter-spacing="0.3">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.3s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="1" to="0" dur="0.15s" begin="11.7s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="12.3s" fill="freeze" repeatCount="indefinite"/>
+      ┌─ ishu@iit-patna: ~/projects ────────────────────────────────┐
+    </text>
+    <text x="22" y="46" fill="#8b949e" font-family="'Courier New',Courier,monospace" font-size="11.5" opacity="0" letter-spacing="0.3">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.8s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="1" to="0" dur="0.15s" begin="11.7s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="12.8s" fill="freeze" repeatCount="indefinite"/>
+      │ $ git log --oneline -8                                       │
+    </text>
+    <text x="22" y="64" fill="#FB923C" font-family="'Courier New',Courier,monospace" font-size="11.5" opacity="0" letter-spacing="0.3">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="1.4s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="1" to="0" dur="0.15s" begin="11.7s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="13.4s" fill="freeze" repeatCount="indefinite"/>
+      │ a4f2b1c feat: add multiplayer mode to chess engine           │
+    </text>
+    <text x="22" y="82" fill="#FB923C" font-family="'Courier New',Courier,monospace" font-size="11.5" opacity="0" letter-spacing="0.3">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="1.9s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="1" to="0" dur="0.15s" begin="11.7s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="13.9s" fill="freeze" repeatCount="indefinite"/>
+      │ 3e8d9a2 fix: TypeScript strict null checks in finvault       │
+    </text>
+    <text x="22" y="100" fill="#FB923C" font-family="'Courier New',Courier,monospace" font-size="11.5" opacity="0" letter-spacing="0.3">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="2.4s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="1" to="0" dur="0.15s" begin="11.7s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="14.4s" fill="freeze" repeatCount="indefinite"/>
+      │ 7c1f4b8 perf: optimize PostgreSQL query (3x speedup)         │
+    </text>
+    <text x="22" y="118" fill="#FB923C" font-family="'Courier New',Courier,monospace" font-size="11.5" opacity="0" letter-spacing="0.3">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="2.9s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="1" to="0" dur="0.15s" begin="11.7s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="14.9s" fill="freeze" repeatCount="indefinite"/>
+      │ 9b5e3d1 feat: deploy CollegeHub to production ✅              │
+    </text>
+    <text x="22" y="136" fill="#FB923C" font-family="'Courier New',Courier,monospace" font-size="11.5" opacity="0" letter-spacing="0.3">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="3.4s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="1" to="0" dur="0.15s" begin="11.7s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="15.4s" fill="freeze" repeatCount="indefinite"/>
+      │ 2a7f6c4 refactor: migrate EduQuest to Next.js 14             │
+    </text>
+    <text x="22" y="154" fill="#FB923C" font-family="'Courier New',Courier,monospace" font-size="11.5" opacity="0" letter-spacing="0.3">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="3.9s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="1" to="0" dur="0.15s" begin="11.7s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="15.9s" fill="freeze" repeatCount="indefinite"/>
+      │ 5d2b8e7 feat: BGMIFF esports bracket system                  │
+    </text>
+    <text x="22" y="172" fill="#FB923C" font-family="'Courier New',Courier,monospace" font-size="11.5" opacity="0" letter-spacing="0.3">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="4.4s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="1" to="0" dur="0.15s" begin="11.7s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="16.4s" fill="freeze" repeatCount="indefinite"/>
+      │ 8e1c9f3 chore: 400th commit 🎉 keep building!                │
+    </text>
+    <text x="22" y="190" fill="#8b949e" font-family="'Courier New',Courier,monospace" font-size="11.5" opacity="0" letter-spacing="0.3">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="4.9s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="1" to="0" dur="0.15s" begin="11.7s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="16.9s" fill="freeze" repeatCount="indefinite"/>
+      │ $ npm run build                                              │
+    </text>
+    <text x="22" y="208" fill="#00E5FF" font-family="'Courier New',Courier,monospace" font-size="11.5" opacity="0" letter-spacing="0.3">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="5.5s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="1" to="0" dur="0.15s" begin="11.7s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="17.5s" fill="freeze" repeatCount="indefinite"/>
+      │ ▶ TypeScript compiled: 0 errors, 0 warnings ✓               │
+    </text>
+    <text x="22" y="226" fill="#00E5FF" font-family="'Courier New',Courier,monospace" font-size="11.5" opacity="0" letter-spacing="0.3">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="6s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="1" to="0" dur="0.15s" begin="11.7s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="18s" fill="freeze" repeatCount="indefinite"/>
+      │ ▶ Bundle size: 142KB gzipped ✓                              │
+    </text>
+    <text x="22" y="244" fill="#00E5FF" font-family="'Courier New',Courier,monospace" font-size="11.5" opacity="0" letter-spacing="0.3">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="6.5s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="1" to="0" dur="0.15s" begin="11.7s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="18.5s" fill="freeze" repeatCount="indefinite"/>
+      │ ▶ Deployed to ishu.fun in 12.3s ✓                           │
+    </text>
+    <text x="22" y="262" fill="#8b949e" font-family="'Courier New',Courier,monospace" font-size="11.5" opacity="0" letter-spacing="0.3">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="7s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="1" to="0" dur="0.15s" begin="11.7s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="19s" fill="freeze" repeatCount="indefinite"/>
+      │ $ whoami                                                     │
+    </text>
+    <text x="22" y="280" fill="#C084FC" font-family="'Courier New',Courier,monospace" font-size="11.5" opacity="0" letter-spacing="0.3">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="7.5s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="1" to="0" dur="0.15s" begin="11.7s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="19.5s" fill="freeze" repeatCount="indefinite"/>
+      │ Ishu Kumar · IIT Patna CSE 2027 · Full Stack Dev ⚡           │
+    </text>
+    <text x="22" y="298" fill="#00FF88" font-family="'Courier New',Courier,monospace" font-size="11.5" opacity="0" letter-spacing="0.3">
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="8s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="1" to="0" dur="0.15s" begin="11.7s" fill="freeze" repeatCount="1"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="20s" fill="freeze" repeatCount="indefinite"/>
+      └──────────────────────────────────────────────────────────────┘
+    </text>
+  <!-- Blinking cursor -->
+  <rect x="22" y="286" width="8" height="13" fill="#00FF88" opacity="1">
+    <animate attributeName="opacity" values="1;0;1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  </svg>
