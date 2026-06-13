@@ -6,7 +6,8 @@
 <div align="center">
 
 <!-- ████  HERO  ████ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:000c04,40:001a08,60:003015,80:001a08,100:000000&height=310&section=header&text=ISHU%20KUMAR&fontSize=90&fontColor=00FF88&fontAlignY=42&desc=Full%20Stack%20Engineer%20%7C%20IIT%20Patna%20CSE%202027%20%7C%20TypeScript%2087%25%20%7C%20Builder%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=64&descSize=16&descColor=8b949e&animation=twinkling&stroke=00FF88&strokeWidth=3"/>
+<!-- Hero Banner — fully self-hosted: scanning line, gradient name, stats, social links, floating particles -->
+<img src="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/main/assets/hero-banner.svg" width="100%" alt="Ishu Kumar — Full Stack Developer"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF88,12:00E5FF,25:C084FC,37:FB923C,50:FF6B6B,62:7EE787,75:00E5FF,87:00FF88,100:C084FC&height=5&animation=twinkling"/>
 
@@ -172,6 +173,11 @@ const ISHU_KUMAR = {
 
 <!-- Activity Graph — self-hosted animated area chart with SMIL reveal, never fails -->
 <img src="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/main/assets/activity-graph.svg" width="100%" alt="Contribution Activity Graph"/>
+
+<br/><br/>
+
+<!-- Contribution Heatmap — 371-cell calendar, wave animation left→right, self-hosted -->
+<img src="https://raw.githubusercontent.com/ISHUKR41/ISHUKR41/main/assets/contribution-heatmap.svg" width="100%" alt="Contribution Heatmap Calendar"/>
 
 </div>
 
